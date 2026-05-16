@@ -1,0 +1,53 @@
+name: Daily Trending Update
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scrape GitHub Trending
+        run: |
+          npm install cheerio
+          node -e "
+          const https = require('https');
+          https.get('https://github.com/trending',{headers:{'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}},res=>{let h='';res.on('data',c=>h+=c);res.on('end',()=>{
+          const repos=[];
+          const re=/<article[^>]*class=\"Box-row\"[^>]*>([\s\S]*?)<\/article>/g;
+          let m;while((m=re.exec(h))&&repos.length<10){
+          const b=m[1];
+          const hm=b.match(/<h2[^>]*>[\s\S]*?<a[^>]*href=\"(\/[^\"]+)\"[^>]*>/);
+          const href=hm?hm[1].trim():'';
+          const fn=href.replace(/^\//,'');
+          const p=fn.split('/');
+          const dm=b.match(/<p[^>]*class=\"[^\"]*col-9[^\"]*\"[^>]*>([\s\S]*?)<\/p>/);
+          const desc=dm?dm[1].replace(/<[^>]+>/g,'').trim():'';
+          const lm=b.match(/<span[^>]*itemprop=\"programmingLanguage\"[^>]*>([\s\S]*?)<\/span>/);
+          const lang=lm?lm[1].trim():'';
+          const sm=b.match(/href=\"\/[^\"]+\/stargazers\"[^>]*>[\s\S]*?([\d,]+)\s*<\/a>/);
+          const st=sm?parseInt(sm[1].replace(/,/g,'')):0;
+          const ssm=b.match(/([\d,]+)\s*stars?\s*today/);
+          const ss=ssm?parseInt(ssm[1].replace(/,/g,'')):0;
+          repos.push({rank:repos.length+1,owner:p[0]||'',name:p[1]||'',fullName:fn,description:desc,language:lang,starsTotal:st,starsSince:ss,url:'https://github.com/'+fn});
+          }
+          const fs=require('fs');
+          fs.writeFileSync('trending.json',JSON.stringify({data:repos,updatedAt:new Date().toISOString()},null,2));
+          console.log('Updated',repos.length,'repos');
+          });
+          });
+          "
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trending.json
+          git diff --staged --quiet || (git commit -m "update: daily trending $(date +%Y-%m-%d)" && git push)
