@@ -2,92 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "oven-sh",
-      "name": "bun",
-      "fullName": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "starsTotal": 91349,
-      "starsSince": 397,
-      "url": "https://github.com/oven-sh/bun"
-    },
-    {
-      "rank": 2,
-      "owner": "K-Dense-AI",
-      "name": "scientific-agent-skills",
-      "fullName": "K-Dense-AI/scientific-agent-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "language": "Python",
-      "starsTotal": 23296,
-      "starsSince": 673,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-    },
-    {
-      "rank": 3,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 194225,
-      "starsSince": 1305,
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "rank": 4,
-      "owner": "Anil-matcha",
-      "name": "Open-Generative-AI",
-      "fullName": "Anil-matcha/Open-Generative-AI",
-      "description": "Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "language": "JavaScript",
-      "starsTotal": 14555,
-      "starsSince": 317,
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI"
-    },
-    {
-      "rank": 5,
-      "owner": "supertone-inc",
-      "name": "supertonic",
-      "fullName": "supertone-inc/supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "language": "Swift",
-      "starsTotal": 7013,
-      "starsSince": 749,
-      "url": "https://github.com/supertone-inc/supertonic"
-    },
-    {
-      "rank": 6,
       "owner": "tinyhumansai",
       "name": "openhuman",
       "fullName": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "starsTotal": 11021,
-      "starsSince": 1549,
+      "starsTotal": 14056,
+      "starsSince": 1690,
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
-      "rank": 7,
-      "owner": "ruvnet",
-      "name": "RuView",
-      "fullName": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "rank": 2,
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "fullName": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "starsTotal": 35887,
+      "starsSince": 238,
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "rank": 3,
+      "owner": "calcom",
+      "name": "cal.diy",
+      "fullName": "calcom/cal.diy",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "language": "TypeScript",
+      "starsTotal": 43384,
+      "starsSince": 433,
+      "url": "https://github.com/calcom/cal.diy"
+    },
+    {
+      "rank": 4,
+      "owner": "oven-sh",
+      "name": "bun",
+      "fullName": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
-      "starsTotal": 58481,
-      "starsSince": 1010,
-      "url": "https://github.com/ruvnet/RuView"
+      "starsTotal": 91779,
+      "starsSince": 910,
+      "url": "https://github.com/oven-sh/bun"
+    },
+    {
+      "rank": 5,
+      "owner": "Anil-matcha",
+      "name": "Open-Generative-AI",
+      "fullName": "Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "starsTotal": 15311,
+      "starsSince": 703,
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+    },
+    {
+      "rank": 6,
+      "owner": "BigBodyCobain",
+      "name": "Shadowbroker",
+      "fullName": "BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "starsTotal": 7236,
+      "starsSince": 333,
+      "url": "https://github.com/BigBodyCobain/Shadowbroker"
+    },
+    {
+      "rank": 7,
+      "owner": "tech-leads-club",
+      "name": "agent-skills",
+      "fullName": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "starsTotal": 3650,
+      "starsSince": 225,
+      "url": "https://github.com/tech-leads-club/agent-skills"
     },
     {
       "rank": 8,
-      "owner": "colbymchenry",
-      "name": "codegraph",
-      "fullName": "colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-      "language": "TypeScript",
-      "starsTotal": 2666,
-      "starsSince": 416,
-      "url": "https://github.com/colbymchenry/codegraph"
+      "owner": "NirDiamant",
+      "name": "agents-towards-production",
+      "fullName": "NirDiamant/agents-towards-production",
+      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+      "language": "Jupyter Notebook",
+      "starsTotal": 20032,
+      "starsSince": 172,
+      "url": "https://github.com/NirDiamant/agents-towards-production"
+    },
+    {
+      "rank": 9,
+      "owner": "dograh-hq",
+      "name": "dograh",
+      "fullName": "dograh-hq/dograh",
+      "description": "Open Source Voice Agent Platform",
+      "language": "Python",
+      "starsTotal": 1812,
+      "starsSince": 223,
+      "url": "https://github.com/dograh-hq/dograh"
+    },
+    {
+      "rank": 10,
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "fullName": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "starsTotal": 23942,
+      "starsSince": 762,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
     }
   ],
-  "updatedAt": "2026-05-17T04:48:51.387Z"
+  "updatedAt": "2026-05-18T05:02:13.588Z"
 }
