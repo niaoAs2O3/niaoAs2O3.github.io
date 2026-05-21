@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "tinyhumansai",
-      "name": "openhuman",
-      "fullName": "tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "starsTotal": 21914,
-      "starsSince": 3973,
-      "url": "https://github.com/tinyhumansai/openhuman"
-    },
-    {
-      "rank": 2,
-      "owner": "HKUDS",
-      "name": "CLI-Anything",
-      "fullName": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "starsTotal": 37905,
-      "starsSince": 1038,
-      "url": "https://github.com/HKUDS/CLI-Anything"
-    },
-    {
-      "rank": 3,
-      "owner": "Imbad0202",
-      "name": "academic-research-skills",
-      "fullName": "Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "starsTotal": 14441,
-      "starsSince": 3164,
-      "url": "https://github.com/Imbad0202/academic-research-skills"
-    },
-    {
-      "rank": 4,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 198765,
-      "starsSince": 1623,
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "rank": 5,
-      "owner": "anthropics",
-      "name": "claude-plugins-official",
-      "fullName": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "starsTotal": 20336,
-      "starsSince": 171,
-      "url": "https://github.com/anthropics/claude-plugins-official"
-    },
-    {
-      "rank": 6,
-      "owner": "rohitg00",
-      "name": "agentmemory",
-      "fullName": "rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "starsTotal": 14362,
-      "starsSince": 1609,
-      "url": "https://github.com/rohitg00/agentmemory"
-    },
-    {
-      "rank": 7,
-      "owner": "CloakHQ",
-      "name": "CloakBrowser",
-      "fullName": "CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "language": "Python",
-      "starsTotal": 16847,
-      "starsSince": 1463,
-      "url": "https://github.com/CloakHQ/CloakBrowser"
-    },
-    {
-      "rank": 8,
-      "owner": "rtk-ai",
-      "name": "rtk",
-      "fullName": "rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "starsTotal": 51148,
-      "starsSince": 704,
-      "url": "https://github.com/rtk-ai/rtk"
-    },
-    {
-      "rank": 9,
-      "owner": "msitarzewski",
-      "name": "agency-agents",
-      "fullName": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "starsTotal": 101905,
-      "starsSince": 1120,
-      "url": "https://github.com/msitarzewski/agency-agents"
-    },
-    {
-      "rank": 10,
       "owner": "colbymchenry",
       "name": "codegraph",
       "fullName": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "starsTotal": 6936,
-      "starsSince": 1850,
+      "starsTotal": 10465,
+      "starsSince": 2123,
       "url": "https://github.com/colbymchenry/codegraph"
+    },
+    {
+      "rank": 2,
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "fullName": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "starsTotal": 16687,
+      "starsSince": 1667,
+      "url": "https://github.com/Imbad0202/academic-research-skills"
+    },
+    {
+      "rank": 3,
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "fullName": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "starsTotal": 23942,
+      "starsSince": 3394,
+      "url": "https://github.com/tinyhumansai/openhuman"
+    },
+    {
+      "rank": 4,
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "fullName": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "starsTotal": 141382,
+      "starsSince": 2679,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "rank": 5,
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "starsTotal": 9848,
+      "starsSince": 765,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "rank": 6,
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "fullName": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "starsTotal": 38654,
+      "starsSince": 890,
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "rank": 7,
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "fullName": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "starsTotal": 5525,
+      "starsSince": 270,
+      "url": "https://github.com/can1357/oh-my-pi"
+    },
+    {
+      "rank": 8,
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "starsTotal": 200336,
+      "starsSince": 1743,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 9,
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "fullName": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "starsTotal": 20903,
+      "starsSince": 674,
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "rank": 10,
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "fullName": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "starsTotal": 103033,
+      "starsSince": 1636,
+      "url": "https://github.com/msitarzewski/agency-agents"
     }
   ],
-  "updatedAt": "2026-05-20T04:58:21.867Z"
+  "updatedAt": "2026-05-21T05:03:56.942Z"
 }
