@@ -7,109 +7,109 @@
       "fullName": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "starsTotal": 31790,
-      "starsSince": 1111,
+      "starsTotal": 35096,
+      "starsSince": 3558,
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "rank": 2,
-      "owner": "opencv",
-      "name": "opencv",
-      "fullName": "opencv/opencv",
-      "description": "Open Source Computer Vision Library",
-      "language": "C++",
-      "starsTotal": 88190,
-      "starsSince": 65,
-      "url": "https://github.com/opencv/opencv"
-    },
-    {
-      "rank": 3,
-      "owner": "Leonxlnx",
-      "name": "taste-skill",
-      "fullName": "Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "Shell",
-      "starsTotal": 37197,
-      "starsSince": 1103,
-      "url": "https://github.com/Leonxlnx/taste-skill"
-    },
-    {
-      "rank": 4,
-      "owner": "NousResearch",
-      "name": "hermes-agent",
-      "fullName": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "starsTotal": 186278,
-      "starsSince": 1112,
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "rank": 5,
-      "owner": "lfnovo",
-      "name": "open-notebook",
-      "fullName": "lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "language": "TypeScript",
-      "starsTotal": 27475,
-      "starsSince": 554,
-      "url": "https://github.com/lfnovo/open-notebook"
-    },
-    {
-      "rank": 6,
-      "owner": "yikart",
-      "name": "AiToEarn",
-      "fullName": "yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "language": "TypeScript",
-      "starsTotal": 18973,
-      "starsSince": 183,
-      "url": "https://github.com/yikart/AiToEarn"
-    },
-    {
-      "rank": 7,
-      "owner": "aaif-goose",
-      "name": "goose",
-      "fullName": "aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "starsTotal": 47637,
-      "starsSince": 322,
-      "url": "https://github.com/aaif-goose/goose"
-    },
-    {
-      "rank": 8,
-      "owner": "Crosstalk-Solutions",
-      "name": "project-nomad",
-      "fullName": "Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "starsTotal": 29826,
-      "starsSince": 309,
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
-    },
-    {
-      "rank": 9,
-      "owner": "ggml-org",
-      "name": "llama.cpp",
-      "fullName": "ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "starsTotal": 115426,
-      "starsSince": 158,
-      "url": "https://github.com/ggml-org/llama.cpp"
-    },
-    {
-      "rank": 10,
       "owner": "RyanCodrai",
       "name": "turbovec",
       "fullName": "RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "starsTotal": 7481,
-      "starsSince": 1554,
+      "starsTotal": 9182,
+      "starsSince": 1729,
       "url": "https://github.com/RyanCodrai/turbovec"
+    },
+    {
+      "rank": 3,
+      "owner": "google",
+      "name": "skills",
+      "fullName": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "starsTotal": 12572,
+      "starsSince": 461,
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "rank": 4,
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "fullName": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "starsTotal": 13727,
+      "starsSince": 651,
+      "url": "https://github.com/refactoringhq/tolaria"
+    },
+    {
+      "rank": 5,
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "fullName": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "starsTotal": 24522,
+      "starsSince": 679,
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "rank": 6,
+      "owner": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "fullName": "danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "starsTotal": 15517,
+      "starsSince": 62,
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+      "rank": 7,
+      "owner": "santifer",
+      "name": "career-ops",
+      "fullName": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "starsTotal": 50730,
+      "starsSince": 308,
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "rank": 8,
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "fullName": "phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "starsTotal": 12868,
+      "starsSince": 164,
+      "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+      "rank": 9,
+      "owner": "openai",
+      "name": "plugins",
+      "fullName": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "starsTotal": 2374,
+      "starsSince": 296,
+      "url": "https://github.com/openai/plugins"
+    },
+    {
+      "rank": 10,
+      "owner": "Andyyyy64",
+      "name": "whichllm",
+      "fullName": "Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "starsTotal": 3591,
+      "starsSince": 143,
+      "url": "https://github.com/Andyyyy64/whichllm"
     }
   ],
-  "updatedAt": "2026-06-08T05:23:34.666Z"
+  "updatedAt": "2026-06-09T04:58:52.066Z"
 }
