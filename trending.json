@@ -7,8 +7,8 @@
       "fullName": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "starsTotal": 35096,
-      "starsSince": 3558,
+      "starsTotal": 37834,
+      "starsSince": 3191,
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
@@ -18,98 +18,98 @@
       "fullName": "RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "starsTotal": 9182,
-      "starsSince": 1729,
+      "starsTotal": 10373,
+      "starsSince": 1801,
       "url": "https://github.com/RyanCodrai/turbovec"
     },
     {
       "rank": 3,
-      "owner": "google",
-      "name": "skills",
-      "fullName": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
+      "owner": "roboflow",
+      "name": "supervision",
+      "fullName": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "starsTotal": 12572,
-      "starsSince": 461,
-      "url": "https://github.com/google/skills"
+      "starsTotal": 43142,
+      "starsSince": 733,
+      "url": "https://github.com/roboflow/supervision"
     },
     {
       "rank": 4,
+      "owner": "opencv",
+      "name": "opencv",
+      "fullName": "opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "starsTotal": 88724,
+      "starsSince": 102,
+      "url": "https://github.com/opencv/opencv"
+    },
+    {
+      "rank": 5,
       "owner": "refactoringhq",
       "name": "tolaria",
       "fullName": "refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "starsTotal": 13727,
-      "starsSince": 651,
+      "starsTotal": 14456,
+      "starsSince": 829,
       "url": "https://github.com/refactoringhq/tolaria"
     },
     {
-      "rank": 5,
-      "owner": "Panniantong",
-      "name": "Agent-Reach",
-      "fullName": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "starsTotal": 24522,
-      "starsSince": 679,
-      "url": "https://github.com/Panniantong/Agent-Reach"
-    },
-    {
       "rank": 6,
-      "owner": "danielmiessler",
-      "name": "Personal_AI_Infrastructure",
-      "fullName": "danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "starsTotal": 15517,
-      "starsSince": 62,
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+      "owner": "aaif-goose",
+      "name": "goose",
+      "fullName": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "starsTotal": 48568,
+      "starsSince": 489,
+      "url": "https://github.com/aaif-goose/goose"
     },
     {
       "rank": 7,
-      "owner": "santifer",
-      "name": "career-ops",
-      "fullName": "santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "starsTotal": 50730,
-      "starsSince": 308,
-      "url": "https://github.com/santifer/career-ops"
-    },
-    {
-      "rank": 8,
-      "owner": "phuryn",
-      "name": "pm-skills",
-      "fullName": "phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": "",
-      "starsTotal": 12868,
-      "starsSince": 164,
-      "url": "https://github.com/phuryn/pm-skills"
-    },
-    {
-      "rank": 9,
-      "owner": "openai",
-      "name": "plugins",
-      "fullName": "openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "starsTotal": 2374,
-      "starsSince": 296,
-      "url": "https://github.com/openai/plugins"
-    },
-    {
-      "rank": 10,
       "owner": "Andyyyy64",
       "name": "whichllm",
       "fullName": "Andyyyy64/whichllm",
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
-      "starsTotal": 3591,
-      "starsSince": 143,
+      "starsTotal": 4197,
+      "starsSince": 633,
       "url": "https://github.com/Andyyyy64/whichllm"
+    },
+    {
+      "rank": 8,
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "fullName": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "starsTotal": 73608,
+      "starsSince": 519,
+      "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+      "rank": 9,
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
+      "language": "",
+      "starsTotal": 139256,
+      "starsSince": 79,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "rank": 10,
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "fullName": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "starsTotal": 20110,
+      "starsSince": 402,
+      "url": "https://github.com/yikart/AiToEarn"
     }
   ],
-  "updatedAt": "2026-06-09T04:58:52.066Z"
+  "updatedAt": "2026-06-10T05:10:51.555Z"
 }
