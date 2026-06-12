@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
+      "owner": "apple",
+      "name": "container",
+      "fullName": "apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "starsTotal": 33218,
+      "starsSince": 2430,
+      "url": "https://github.com/apple/container"
+    },
+    {
+      "rank": 2,
       "owner": "addyosmani",
       "name": "agent-skills",
       "fullName": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "starsTotal": 52428,
-      "starsSince": 821,
+      "starsTotal": 55260,
+      "starsSince": 3278,
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
-      "rank": 2,
-      "owner": "phuryn",
-      "name": "pm-skills",
-      "fullName": "phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": "",
-      "starsTotal": 15300,
-      "starsSince": 804,
-      "url": "https://github.com/phuryn/pm-skills"
-    },
-    {
       "rank": 3,
-      "owner": "refactoringhq",
-      "name": "tolaria",
-      "fullName": "refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "language": "TypeScript",
-      "starsTotal": 15049,
-      "starsSince": 612,
-      "url": "https://github.com/refactoringhq/tolaria"
-    },
-    {
-      "rank": 4,
-      "owner": "mvanhorn",
-      "name": "last30days-skill",
-      "fullName": "mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "starsTotal": 39259,
-      "starsSince": 2535,
-      "url": "https://github.com/mvanhorn/last30days-skill"
-    },
-    {
-      "rank": 5,
-      "owner": "soxoj",
-      "name": "maigret",
-      "fullName": "soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "starsTotal": 32148,
-      "starsSince": 318,
-      "url": "https://github.com/soxoj/maigret"
-    },
-    {
-      "rank": 6,
-      "owner": "x1xhlol",
-      "name": "system-prompts-and-models-of-ai-tools",
-      "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
-      "language": "",
-      "starsTotal": 139604,
-      "starsSince": 393,
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
-    },
-    {
-      "rank": 7,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 223843,
-      "starsSince": 1104,
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "rank": 8,
-      "owner": "masterking32",
-      "name": "MasterDnsVPN",
-      "fullName": "masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "language": "Go",
-      "starsTotal": 5319,
-      "starsSince": 354,
-      "url": "https://github.com/masterking32/MasterDnsVPN"
-    },
-    {
-      "rank": 9,
-      "owner": "harry0703",
-      "name": "MoneyPrinterTurbo",
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "language": "Python",
-      "starsTotal": 85306,
-      "starsSince": 1389,
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
-    },
-    {
-      "rank": 10,
       "owner": "maziyarpanahi",
       "name": "openmed",
       "fullName": "maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "starsTotal": 2386,
-      "starsSince": 527,
+      "starsTotal": 2871,
+      "starsSince": 426,
       "url": "https://github.com/maziyarpanahi/openmed"
+    },
+    {
+      "rank": 4,
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "fullName": "phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "starsTotal": 16413,
+      "starsSince": 1978,
+      "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+      "rank": 5,
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "fullName": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "starsTotal": 2846,
+      "starsSince": 319,
+      "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+      "rank": 6,
+      "owner": "soxoj",
+      "name": "maigret",
+      "fullName": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "starsTotal": 32731,
+      "starsSince": 661,
+      "url": "https://github.com/soxoj/maigret"
+    },
+    {
+      "rank": 7,
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
+      "language": "",
+      "starsTotal": 139952,
+      "starsSince": 368,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "rank": 8,
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "fullName": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "starsTotal": 15484,
+      "starsSince": 604,
+      "url": "https://github.com/refactoringhq/tolaria"
+    },
+    {
+      "rank": 9,
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "starsTotal": 225106,
+      "starsSince": 1322,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 10,
+      "owner": "restic",
+      "name": "restic",
+      "fullName": "restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "starsTotal": 34232,
+      "starsSince": 61,
+      "url": "https://github.com/restic/restic"
     }
   ],
-  "updatedAt": "2026-06-11T05:22:43.817Z"
+  "updatedAt": "2026-06-12T05:26:04.454Z"
 }
