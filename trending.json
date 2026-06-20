@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "google-research",
-      "name": "timesfm",
-      "fullName": "google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "starsTotal": 23443,
-      "starsSince": 844,
-      "url": "https://github.com/google-research/timesfm"
-    },
-    {
-      "rank": 2,
-      "owner": "n0-computer",
-      "name": "iroh",
-      "fullName": "n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "language": "Rust",
-      "starsTotal": 10062,
-      "starsSince": 369,
-      "url": "https://github.com/n0-computer/iroh"
-    },
-    {
-      "rank": 3,
-      "owner": "freeCodeCamp",
-      "name": "freeCodeCamp",
-      "fullName": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "starsTotal": 449627,
-      "starsSince": 417,
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp"
-    },
-    {
-      "rank": 4,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 232602,
-      "starsSince": 1429,
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "rank": 5,
-      "owner": "zai-org",
-      "name": "GLM-5",
-      "fullName": "zai-org/GLM-5",
-      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "language": "",
-      "starsTotal": 4238,
-      "starsSince": 202,
-      "url": "https://github.com/zai-org/GLM-5"
-    },
-    {
-      "rank": 6,
       "owner": "DeusData",
       "name": "codebase-memory-mcp",
       "fullName": "DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "starsTotal": 7265,
-      "starsSince": 2322,
+      "starsTotal": 8434,
+      "starsSince": 1058,
       "url": "https://github.com/DeusData/codebase-memory-mcp"
     },
     {
+      "rank": 2,
+      "owner": "google-research",
+      "name": "timesfm",
+      "fullName": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "starsTotal": 24142,
+      "starsSince": 1510,
+      "url": "https://github.com/google-research/timesfm"
+    },
+    {
+      "rank": 3,
+      "owner": "palmier-io",
+      "name": "palmier-pro",
+      "fullName": "palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "starsTotal": 2044,
+      "starsSince": 756,
+      "url": "https://github.com/palmier-io/palmier-pro"
+    },
+    {
+      "rank": 4,
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "fullName": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "starsTotal": 57378,
+      "starsSince": 156,
+      "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "rank": 5,
+      "owner": "aishwaryanr",
+      "name": "awesome-generative-ai-guide",
+      "fullName": "aishwaryanr/awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "language": "HTML",
+      "starsTotal": 27690,
+      "starsSince": 107,
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+    },
+    {
+      "rank": 6,
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "fullName": "BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "starsTotal": 1108,
+      "starsSince": 147,
+      "url": "https://github.com/BuilderIO/agent-native"
+    },
+    {
       "rank": 7,
-      "owner": "alibaba",
-      "name": "zvec",
-      "fullName": "alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "starsTotal": 11320,
-      "starsSince": 259,
-      "url": "https://github.com/alibaba/zvec"
+      "owner": "chopratejas",
+      "name": "headroom",
+      "fullName": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "starsTotal": 39216,
+      "starsSince": 4005,
+      "url": "https://github.com/chopratejas/headroom"
     },
     {
       "rank": 8,
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "fullName": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "starsTotal": 6398,
+      "starsSince": 156,
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "rank": 9,
+      "owner": "zai-org",
+      "name": "GLM-5",
+      "fullName": "zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "language": "",
+      "starsTotal": 4640,
+      "starsSince": 480,
+      "url": "https://github.com/zai-org/GLM-5"
+    },
+    {
+      "rank": 10,
       "owner": "withastro",
       "name": "flue",
       "fullName": "withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "starsTotal": 5565,
-      "starsSince": 162,
+      "starsTotal": 5880,
+      "starsSince": 309,
       "url": "https://github.com/withastro/flue"
-    },
-    {
-      "rank": 9,
-      "owner": "Kilo-Org",
-      "name": "kilocode",
-      "fullName": "Kilo-Org/kilocode",
-      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "language": "TypeScript",
-      "starsTotal": 22335,
-      "starsSince": 1345,
-      "url": "https://github.com/Kilo-Org/kilocode"
-    },
-    {
-      "rank": 10,
-      "owner": "makeplane",
-      "name": "plane",
-      "fullName": "makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "starsTotal": 51908,
-      "starsSince": 613,
-      "url": "https://github.com/makeplane/plane"
     }
   ],
-  "updatedAt": "2026-06-19T06:09:38.080Z"
+  "updatedAt": "2026-06-20T05:04:48.921Z"
 }
