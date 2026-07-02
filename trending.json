@@ -2,14 +2,14 @@
   "data": [
     {
       "rank": 1,
-      "owner": "hasaneyldrm",
-      "name": "exercises-dataset",
-      "fullName": "hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "language": "HTML",
-      "starsTotal": 7151,
-      "starsSince": 1343,
-      "url": "https://github.com/hasaneyldrm/exercises-dataset"
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "fullName": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "starsTotal": 123956,
+      "starsSince": 2114,
+      "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "rank": 2,
@@ -18,98 +18,98 @@
       "fullName": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "starsTotal": 28316,
-      "starsSince": 515,
+      "starsTotal": 30040,
+      "starsSince": 1211,
       "url": "https://github.com/usestrix/strix"
     },
     {
       "rank": 3,
-      "owner": "msitarzewski",
-      "name": "agency-agents",
-      "fullName": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "starsTotal": 121275,
-      "starsSince": 1791,
-      "url": "https://github.com/msitarzewski/agency-agents"
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "fullName": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "starsTotal": 16742,
+      "starsSince": 694,
+      "url": "https://github.com/HKUDS/Vibe-Trading"
     },
     {
       "rank": 4,
-      "owner": "altic-dev",
-      "name": "FluidVoice",
-      "fullName": "altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
-      "language": "Swift",
-      "starsTotal": 5048,
-      "starsSince": 588,
-      "url": "https://github.com/altic-dev/FluidVoice"
+      "owner": "hasaneyldrm",
+      "name": "exercises-dataset",
+      "fullName": "hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "starsTotal": 8582,
+      "starsSince": 2470,
+      "url": "https://github.com/hasaneyldrm/exercises-dataset"
     },
     {
       "rank": 5,
+      "owner": "facebook",
+      "name": "astryx",
+      "fullName": "facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "starsTotal": 2822,
+      "starsSince": 708,
+      "url": "https://github.com/facebook/astryx"
+    },
+    {
+      "rank": 6,
       "owner": "diegosouzapw",
       "name": "OmniRoute",
       "fullName": "diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "starsTotal": 8741,
-      "starsSince": 387,
+      "starsTotal": 9702,
+      "starsSince": 1010,
       "url": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
-      "rank": 6,
-      "owner": "browser-use",
-      "name": "video-use",
-      "fullName": "browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "starsTotal": 12754,
-      "starsSince": 721,
-      "url": "https://github.com/browser-use/video-use"
-    },
-    {
       "rank": 7,
-      "owner": "xbtlin",
-      "name": "ai-berkshire",
-      "fullName": "xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "owner": "allenai",
+      "name": "olmocr",
+      "fullName": "allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
       "language": "Python",
-      "starsTotal": 7681,
-      "starsSince": 969,
-      "url": "https://github.com/xbtlin/ai-berkshire"
+      "starsTotal": 18359,
+      "starsSince": 334,
+      "url": "https://github.com/allenai/olmocr"
     },
     {
       "rank": 8,
+      "owner": "logto-io",
+      "name": "logto",
+      "fullName": "logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "starsTotal": 13342,
+      "starsSince": 113,
+      "url": "https://github.com/logto-io/logto"
+    },
+    {
+      "rank": 9,
+      "owner": "togatoga",
+      "name": "karukan",
+      "fullName": "togatoga/karukan",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "language": "Rust",
+      "starsTotal": 603,
+      "starsSince": 42,
+      "url": "https://github.com/togatoga/karukan"
+    },
+    {
+      "rank": 10,
       "owner": "Mebus",
       "name": "cupp",
       "fullName": "Mebus/cupp",
       "description": "Common User Passwords Profiler (CUPP)",
       "language": "Python",
-      "starsTotal": 6134,
-      "starsSince": 32,
+      "starsTotal": 6265,
+      "starsSince": 184,
       "url": "https://github.com/Mebus/cupp"
-    },
-    {
-      "rank": 9,
-      "owner": "ripienaar",
-      "name": "free-for-dev",
-      "fullName": "ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "language": "HTML",
-      "starsTotal": 127402,
-      "starsSince": 742,
-      "url": "https://github.com/ripienaar/free-for-dev"
-    },
-    {
-      "rank": 10,
-      "owner": "google",
-      "name": "agents-cli",
-      "fullName": "google/agents-cli",
-      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
-      "language": "Python",
-      "starsTotal": 4338,
-      "starsSince": 445,
-      "url": "https://github.com/google/agents-cli"
     }
   ],
-  "updatedAt": "2026-07-01T05:15:26.946Z"
+  "updatedAt": "2026-07-02T04:53:08.145Z"
 }
