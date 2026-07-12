@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "wonderwhy-er",
-      "name": "DesktopCommanderMCP",
-      "fullName": "wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "starsTotal": 7388,
-      "starsSince": 328,
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
-    },
-    {
-      "rank": 2,
-      "owner": "oven-sh",
-      "name": "bun",
-      "fullName": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "starsTotal": 94301,
-      "starsSince": 209,
-      "url": "https://github.com/oven-sh/bun"
-    },
-    {
-      "rank": 3,
-      "owner": "abseil",
-      "name": "abseil-cpp",
-      "fullName": "abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "language": "C++",
-      "starsTotal": 17539,
-      "starsSince": 89,
-      "url": "https://github.com/abseil/abseil-cpp"
-    },
-    {
-      "rank": 4,
-      "owner": "addyosmani",
-      "name": "agent-skills",
-      "fullName": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "starsTotal": 76906,
-      "starsSince": 1116,
-      "url": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "rank": 5,
-      "owner": "jbeder",
-      "name": "yaml-cpp",
-      "fullName": "jbeder/yaml-cpp",
-      "description": "A YAML parser and emitter in C++",
-      "language": "C++",
-      "starsTotal": 6091,
-      "starsSince": 69,
-      "url": "https://github.com/jbeder/yaml-cpp"
-    },
-    {
-      "rank": 6,
-      "owner": "mattpocock",
-      "name": "skills",
-      "fullName": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "starsTotal": 164789,
-      "starsSince": 1712,
-      "url": "https://github.com/mattpocock/skills"
-    },
-    {
-      "rank": 7,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 251875,
-      "starsSince": 1013,
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "rank": 8,
-      "owner": "microsoft",
-      "name": "TypeScript",
-      "fullName": "microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "language": "TypeScript",
-      "starsTotal": 109800,
-      "starsSince": 177,
-      "url": "https://github.com/microsoft/TypeScript"
-    },
-    {
-      "rank": 9,
       "owner": "catchorg",
       "name": "Catch2",
       "fullName": "catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
-      "starsTotal": 20624,
-      "starsSince": 76,
+      "starsTotal": 21107,
+      "starsSince": 113,
       "url": "https://github.com/catchorg/Catch2"
     },
     {
-      "rank": 10,
+      "rank": 2,
+      "owner": "abseil",
+      "name": "abseil-cpp",
+      "fullName": "abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "starsTotal": 17833,
+      "starsSince": 118,
+      "url": "https://github.com/abseil/abseil-cpp"
+    },
+    {
+      "rank": 3,
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "fullName": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "starsTotal": 29057,
+      "starsSince": 232,
+      "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "rank": 4,
+      "owner": "google-labs-code",
+      "name": "stitch-skills",
+      "fullName": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "starsTotal": 7115,
+      "starsSince": 340,
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "rank": 5,
+      "owner": "hashicorp",
+      "name": "terraform",
+      "fullName": "hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "starsTotal": 49389,
+      "starsSince": 229,
+      "url": "https://github.com/hashicorp/terraform"
+    },
+    {
+      "rank": 6,
+      "owner": "zeux",
+      "name": "meshoptimizer",
+      "fullName": "zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "starsTotal": 8152,
+      "starsSince": 110,
+      "url": "https://github.com/zeux/meshoptimizer"
+    },
+    {
+      "rank": 7,
+      "owner": "openai",
+      "name": "plugins",
+      "fullName": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "starsTotal": 4443,
+      "starsSince": 29,
+      "url": "https://github.com/openai/plugins"
+    },
+    {
+      "rank": 8,
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "fullName": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "starsTotal": 7806,
+      "starsSince": 909,
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+      "rank": 9,
       "owner": "chriskohlhoff",
       "name": "asio",
       "fullName": "chriskohlhoff/asio",
       "description": "Asio C++ Library",
       "language": "C++",
-      "starsTotal": 6080,
-      "starsSince": 92,
+      "starsTotal": 6145,
+      "starsSince": 76,
       "url": "https://github.com/chriskohlhoff/asio"
+    },
+    {
+      "rank": 10,
+      "owner": "oven-sh",
+      "name": "bun",
+      "fullName": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "starsTotal": 94581,
+      "starsSince": 658,
+      "url": "https://github.com/oven-sh/bun"
     }
   ],
-  "updatedAt": "2026-07-11T03:59:51.640Z"
+  "updatedAt": "2026-07-12T04:20:44.269Z"
 }
