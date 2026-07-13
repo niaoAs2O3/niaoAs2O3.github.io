@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "catchorg",
-      "name": "Catch2",
-      "fullName": "catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "C++",
-      "starsTotal": 21107,
-      "starsSince": 113,
-      "url": "https://github.com/catchorg/Catch2"
+      "owner": "Dicklesworthstone",
+      "name": "destructive_command_guard",
+      "fullName": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "starsTotal": 3119,
+      "starsSince": 444,
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
     },
     {
       "rank": 2,
-      "owner": "abseil",
-      "name": "abseil-cpp",
-      "fullName": "abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "language": "C++",
-      "starsTotal": 17833,
-      "starsSince": 118,
-      "url": "https://github.com/abseil/abseil-cpp"
-    },
-    {
-      "rank": 3,
-      "owner": "davila7",
-      "name": "claude-code-templates",
-      "fullName": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "starsTotal": 29057,
-      "starsSince": 232,
-      "url": "https://github.com/davila7/claude-code-templates"
-    },
-    {
-      "rank": 4,
-      "owner": "google-labs-code",
-      "name": "stitch-skills",
-      "fullName": "google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "language": "TypeScript",
-      "starsTotal": 7115,
-      "starsSince": 340,
-      "url": "https://github.com/google-labs-code/stitch-skills"
-    },
-    {
-      "rank": 5,
-      "owner": "hashicorp",
-      "name": "terraform",
-      "fullName": "hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "starsTotal": 49389,
-      "starsSince": 229,
-      "url": "https://github.com/hashicorp/terraform"
-    },
-    {
-      "rank": 6,
-      "owner": "zeux",
-      "name": "meshoptimizer",
-      "fullName": "zeux/meshoptimizer",
-      "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "language": "C++",
-      "starsTotal": 8152,
-      "starsSince": 110,
-      "url": "https://github.com/zeux/meshoptimizer"
-    },
-    {
-      "rank": 7,
-      "owner": "openai",
-      "name": "plugins",
-      "fullName": "openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "starsTotal": 4443,
-      "starsSince": 29,
-      "url": "https://github.com/openai/plugins"
-    },
-    {
-      "rank": 8,
       "owner": "wonderwhy-er",
       "name": "DesktopCommanderMCP",
       "fullName": "wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "starsTotal": 7806,
-      "starsSince": 909,
+      "starsTotal": 8035,
+      "starsSince": 210,
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
     },
     {
+      "rank": 3,
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "fullName": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "starsTotal": 20756,
+      "starsSince": 768,
+      "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
+      "rank": 4,
+      "owner": "PrefectHQ",
+      "name": "prefect",
+      "fullName": "PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "starsTotal": 23212,
+      "starsSince": 66,
+      "url": "https://github.com/PrefectHQ/prefect"
+    },
+    {
+      "rank": 5,
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "starsTotal": 118764,
+      "starsSince": 408,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "rank": 6,
+      "owner": "anthropics",
+      "name": "claude-cookbooks",
+      "fullName": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "starsTotal": 48532,
+      "starsSince": 459,
+      "url": "https://github.com/anthropics/claude-cookbooks"
+    },
+    {
+      "rank": 7,
+      "owner": "home-assistant",
+      "name": "core",
+      "fullName": "home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "starsTotal": 89152,
+      "starsSince": 400,
+      "url": "https://github.com/home-assistant/core"
+    },
+    {
+      "rank": 8,
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "fullName": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "starsTotal": 33879,
+      "starsSince": 125,
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
       "rank": 9,
-      "owner": "chriskohlhoff",
-      "name": "asio",
-      "fullName": "chriskohlhoff/asio",
-      "description": "Asio C++ Library",
-      "language": "C++",
-      "starsTotal": 6145,
-      "starsSince": 76,
-      "url": "https://github.com/chriskohlhoff/asio"
+      "owner": "ColeMurray",
+      "name": "background-agents",
+      "fullName": "ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "starsTotal": 2307,
+      "starsSince": 16,
+      "url": "https://github.com/ColeMurray/background-agents"
     },
     {
       "rank": 10,
-      "owner": "oven-sh",
-      "name": "bun",
-      "fullName": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "starsTotal": 94581,
-      "starsSince": 658,
-      "url": "https://github.com/oven-sh/bun"
+      "owner": "k1tbyte",
+      "name": "Wand-Enhancer",
+      "fullName": "k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "starsTotal": 7022,
+      "starsSince": 609,
+      "url": "https://github.com/k1tbyte/Wand-Enhancer"
     }
   ],
-  "updatedAt": "2026-07-12T04:20:44.269Z"
+  "updatedAt": "2026-07-13T04:24:44.932Z"
 }
