@@ -2,36 +2,36 @@
   "data": [
     {
       "rank": 1,
-      "owner": "bojieli",
-      "name": "ai-agent-book",
-      "fullName": "bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "language": "Python",
-      "starsTotal": 6746,
-      "starsSince": 1734,
-      "url": "https://github.com/bojieli/ai-agent-book"
-    },
-    {
-      "rank": 2,
       "owner": "tirth8205",
       "name": "code-review-graph",
       "fullName": "tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "starsTotal": 21580,
-      "starsSince": 663,
+      "starsTotal": 23537,
+      "starsSince": 1833,
       "url": "https://github.com/tirth8205/code-review-graph"
     },
     {
+      "rank": 2,
+      "owner": "1jehuang",
+      "name": "jcode",
+      "fullName": "1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "starsTotal": 9765,
+      "starsSince": 568,
+      "url": "https://github.com/1jehuang/jcode"
+    },
+    {
       "rank": 3,
-      "owner": "kvcache-ai",
-      "name": "ktransformers",
-      "fullName": "kvcache-ai/ktransformers",
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "language": "Python",
-      "starsTotal": 18454,
-      "starsSince": 360,
-      "url": "https://github.com/kvcache-ai/ktransformers"
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "fullName": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "language": "TypeScript",
+      "starsTotal": 22125,
+      "starsSince": 1107,
+      "url": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
       "rank": 4,
@@ -40,76 +40,76 @@
       "fullName": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "starsTotal": 39850,
-      "starsSince": 501,
+      "starsTotal": 40712,
+      "starsSince": 823,
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
       "rank": 5,
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "fullName": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "starsTotal": 134862,
+      "starsSince": 862,
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "rank": 6,
+      "owner": "kvcache-ai",
+      "name": "ktransformers",
+      "fullName": "kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "starsTotal": 18769,
+      "starsSince": 458,
+      "url": "https://github.com/kvcache-ai/ktransformers"
+    },
+    {
+      "rank": 7,
       "owner": "jamiepine",
       "name": "voicebox",
       "fullName": "jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "starsTotal": 43520,
-      "starsSince": 610,
+      "starsTotal": 44332,
+      "starsSince": 821,
       "url": "https://github.com/jamiepine/voicebox"
     },
     {
-      "rank": 6,
-      "owner": "KnockOutEZ",
-      "name": "wigolo",
-      "fullName": "KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "language": "TypeScript",
-      "starsTotal": 1977,
-      "starsSince": 595,
-      "url": "https://github.com/KnockOutEZ/wigolo"
-    },
-    {
-      "rank": 7,
-      "owner": "andrewrabert",
-      "name": "jellium-desktop",
-      "fullName": "andrewrabert/jellium-desktop",
-      "description": "An unofficial desktop client for Jellyfin",
-      "language": "Rust",
-      "starsTotal": 1322,
-      "starsSince": 43,
-      "url": "https://github.com/andrewrabert/jellium-desktop"
-    },
-    {
       "rank": 8,
-      "owner": "github",
-      "name": "copilot-sdk",
-      "fullName": "github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "starsTotal": 9988,
-      "starsSince": 39,
-      "url": "https://github.com/github/copilot-sdk"
+      "owner": "topoteretes",
+      "name": "cognee",
+      "fullName": "topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "starsTotal": 28854,
+      "starsSince": 234,
+      "url": "https://github.com/topoteretes/cognee"
     },
     {
       "rank": 9,
-      "owner": "PostHog",
-      "name": "posthog",
-      "fullName": "PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "fullName": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "starsTotal": 36992,
-      "starsSince": 411,
-      "url": "https://github.com/PostHog/posthog"
+      "starsTotal": 14339,
+      "starsSince": 565,
+      "url": "https://github.com/Robbyant/lingbot-map"
     },
     {
       "rank": 10,
-      "owner": "microsoft",
-      "name": "terminal",
-      "fullName": "microsoft/terminal",
-      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-      "language": "C++",
-      "starsTotal": 104217,
-      "starsSince": 59,
-      "url": "https://github.com/microsoft/terminal"
+      "owner": "every-app",
+      "name": "open-seo",
+      "fullName": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "starsTotal": 5990,
+      "starsSince": 939,
+      "url": "https://github.com/every-app/open-seo"
     }
   ],
-  "updatedAt": "2026-07-20T04:31:30.940Z"
+  "updatedAt": "2026-07-21T04:10:20.241Z"
 }
