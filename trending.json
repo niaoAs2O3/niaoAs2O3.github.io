@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "fullName": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "starsTotal": 65996,
+      "starsSince": 1295,
+      "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "rank": 2,
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "fullName": "bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "starsTotal": 15367,
+      "starsSince": 4624,
+      "url": "https://github.com/bojieli/ai-agent-book"
+    },
+    {
+      "rank": 3,
       "owner": "tirth8205",
       "name": "code-review-graph",
       "fullName": "tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "starsTotal": 23537,
-      "starsSince": 1833,
+      "starsTotal": 24741,
+      "starsSince": 1925,
       "url": "https://github.com/tirth8205/code-review-graph"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "fullName": "ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "",
+      "starsTotal": 7108,
+      "starsSince": 1866,
+      "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+      "rank": 5,
+      "owner": "earthtojake",
+      "name": "text-to-cad",
+      "fullName": "earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "starsTotal": 9251,
+      "starsSince": 291,
+      "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+      "rank": 6,
       "owner": "1jehuang",
       "name": "jcode",
       "fullName": "1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "starsTotal": 9765,
-      "starsSince": 568,
+      "starsTotal": 10427,
+      "starsSince": 843,
       "url": "https://github.com/1jehuang/jcode"
     },
     {
-      "rank": 3,
-      "owner": "diegosouzapw",
-      "name": "OmniRoute",
-      "fullName": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-      "language": "TypeScript",
-      "starsTotal": 22125,
-      "starsSince": 1107,
-      "url": "https://github.com/diegosouzapw/OmniRoute"
-    },
-    {
-      "rank": 4,
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "starsTotal": 40712,
-      "starsSince": 823,
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
-    },
-    {
-      "rank": 5,
-      "owner": "msitarzewski",
-      "name": "agency-agents",
-      "fullName": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "starsTotal": 134862,
-      "starsSince": 862,
-      "url": "https://github.com/msitarzewski/agency-agents"
-    },
-    {
-      "rank": 6,
-      "owner": "kvcache-ai",
-      "name": "ktransformers",
-      "fullName": "kvcache-ai/ktransformers",
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "language": "Python",
-      "starsTotal": 18769,
-      "starsSince": 458,
-      "url": "https://github.com/kvcache-ai/ktransformers"
-    },
-    {
       "rank": 7,
-      "owner": "jamiepine",
-      "name": "voicebox",
-      "fullName": "jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "owner": "oblien",
+      "name": "openship",
+      "fullName": "oblien/openship",
+      "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "starsTotal": 44332,
-      "starsSince": 821,
-      "url": "https://github.com/jamiepine/voicebox"
+      "starsTotal": 6387,
+      "starsSince": 1562,
+      "url": "https://github.com/oblien/openship"
     },
     {
       "rank": 8,
-      "owner": "topoteretes",
-      "name": "cognee",
-      "fullName": "topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "owner": "AstrBotDevs",
+      "name": "AstrBot",
+      "fullName": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "starsTotal": 28854,
-      "starsSince": 234,
-      "url": "https://github.com/topoteretes/cognee"
+      "starsTotal": 37547,
+      "starsSince": 416,
+      "url": "https://github.com/AstrBotDevs/AstrBot"
     },
     {
       "rank": 9,
-      "owner": "Robbyant",
-      "name": "lingbot-map",
-      "fullName": "Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "starsTotal": 14339,
-      "starsSince": 565,
-      "url": "https://github.com/Robbyant/lingbot-map"
-    },
-    {
-      "rank": 10,
       "owner": "every-app",
       "name": "open-seo",
       "fullName": "every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "starsTotal": 5990,
-      "starsSince": 939,
+      "starsTotal": 6665,
+      "starsSince": 849,
       "url": "https://github.com/every-app/open-seo"
+    },
+    {
+      "rank": 10,
+      "owner": "tradesdontlie",
+      "name": "tradingview-mcp",
+      "fullName": "tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "starsTotal": 4904,
+      "starsSince": 114,
+      "url": "https://github.com/tradesdontlie/tradingview-mcp"
     }
   ],
-  "updatedAt": "2026-07-21T04:10:20.241Z"
+  "updatedAt": "2026-07-22T04:11:52.539Z"
 }
