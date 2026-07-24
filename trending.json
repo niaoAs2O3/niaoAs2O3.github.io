@@ -2,58 +2,58 @@
   "data": [
     {
       "rank": 1,
+      "owner": "block",
+      "name": "buzz",
+      "fullName": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "starsTotal": 7332,
+      "starsSince": 2162,
+      "url": "https://github.com/block/buzz"
+    },
+    {
+      "rank": 2,
       "owner": "koala73",
       "name": "worldmonitor",
       "fullName": "koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "starsTotal": 69426,
-      "starsSince": 4139,
+      "starsTotal": 71918,
+      "starsSince": 3175,
       "url": "https://github.com/koala73/worldmonitor"
     },
     {
-      "rank": 2,
-      "owner": "ruvnet",
-      "name": "RuView",
-      "fullName": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "starsTotal": 84018,
-      "starsSince": 741,
-      "url": "https://github.com/ruvnet/RuView"
-    },
-    {
       "rank": 3,
-      "owner": "ayghri",
-      "name": "i-have-adhd",
-      "fullName": "ayghri/i-have-adhd",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "fullName": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "starsTotal": 8479,
-      "starsSince": 1699,
-      "url": "https://github.com/ayghri/i-have-adhd"
+      "starsTotal": 33158,
+      "starsSince": 401,
+      "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "rank": 4,
-      "owner": "schollz",
-      "name": "croc",
-      "fullName": "schollz/croc",
-      "description": "Easily and securely send things from one computer to another 🐊 📦",
-      "language": "Go",
-      "starsTotal": 37745,
-      "starsSince": 739,
-      "url": "https://github.com/schollz/croc"
+      "owner": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "fullName": "Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "starsTotal": 8992,
+      "starsSince": 565,
+      "url": "https://github.com/Pumpkin-MC/Pumpkin"
     },
     {
       "rank": 5,
-      "owner": "likec4",
-      "name": "likec4",
-      "fullName": "likec4/likec4",
-      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "language": "TypeScript",
-      "starsTotal": 4369,
-      "starsSince": 80,
-      "url": "https://github.com/likec4/likec4"
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "fullName": "citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "starsTotal": 1798,
+      "starsSince": 247,
+      "url": "https://github.com/citrolabs/ego-lite"
     },
     {
       "rank": 6,
@@ -62,54 +62,54 @@
       "fullName": "chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "starsTotal": 70691,
-      "starsSince": 768,
+      "starsTotal": 71157,
+      "starsSince": 592,
       "url": "https://github.com/chrislgarry/Apollo-11"
     },
     {
       "rank": 7,
-      "owner": "jamiepine",
-      "name": "voicebox",
-      "fullName": "jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "starsTotal": 45898,
-      "starsSince": 557,
-      "url": "https://github.com/jamiepine/voicebox"
-    },
-    {
-      "rank": 8,
       "owner": "diegosouzapw",
       "name": "OmniRoute",
       "fullName": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "starsTotal": 25577,
-      "starsSince": 1651,
+      "starsTotal": 27459,
+      "starsSince": 1929,
       "url": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
-      "rank": 9,
-      "owner": "shiyu-coder",
-      "name": "Kronos",
-      "fullName": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "starsTotal": 32674,
-      "starsSince": 137,
-      "url": "https://github.com/shiyu-coder/Kronos"
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "owner": "ComposioHQ",
       "name": "awesome-claude-skills",
       "fullName": "ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "starsTotal": 68883,
-      "starsSince": 163,
+      "starsTotal": 69541,
+      "starsSince": 636,
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+      "rank": 9,
+      "owner": "earthtojake",
+      "name": "text-to-cad",
+      "fullName": "earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "starsTotal": 10083,
+      "starsSince": 230,
+      "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+      "rank": 10,
+      "owner": "agegr",
+      "name": "pi-web",
+      "fullName": "agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "starsTotal": 2433,
+      "starsSince": 315,
+      "url": "https://github.com/agegr/pi-web"
     }
   ],
-  "updatedAt": "2026-07-23T04:09:38.504Z"
+  "updatedAt": "2026-07-24T04:08:18.671Z"
 }
