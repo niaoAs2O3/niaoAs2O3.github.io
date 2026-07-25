@@ -7,8 +7,8 @@
       "fullName": "block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "starsTotal": 7332,
-      "starsSince": 2162,
+      "starsTotal": 10209,
+      "starsSince": 3270,
       "url": "https://github.com/block/buzz"
     },
     {
@@ -18,20 +18,20 @@
       "fullName": "koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "starsTotal": 71918,
-      "starsSince": 3175,
+      "starsTotal": 73436,
+      "starsSince": 2184,
       "url": "https://github.com/koala73/worldmonitor"
     },
     {
       "rank": 3,
-      "owner": "shiyu-coder",
-      "name": "Kronos",
-      "fullName": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "fullName": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "starsTotal": 33158,
-      "starsSince": 401,
-      "url": "https://github.com/shiyu-coder/Kronos"
+      "starsTotal": 70142,
+      "starsSince": 663,
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
       "rank": 4,
@@ -40,76 +40,76 @@
       "fullName": "Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
-      "starsTotal": 8992,
-      "starsSince": 565,
+      "starsTotal": 9383,
+      "starsSince": 473,
       "url": "https://github.com/Pumpkin-MC/Pumpkin"
     },
     {
       "rank": 5,
-      "owner": "citrolabs",
-      "name": "ego-lite",
-      "fullName": "citrolabs/ego-lite",
-      "description": "The best browser for both you and your AI agents work in parallel.",
-      "language": "JavaScript",
-      "starsTotal": 1798,
-      "starsSince": 247,
-      "url": "https://github.com/citrolabs/ego-lite"
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "fullName": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "starsTotal": 33534,
+      "starsSince": 499,
+      "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "rank": 6,
-      "owner": "chrislgarry",
-      "name": "Apollo-11",
-      "fullName": "chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "starsTotal": 71157,
-      "starsSince": 592,
-      "url": "https://github.com/chrislgarry/Apollo-11"
+      "owner": "Automattic",
+      "name": "harper",
+      "fullName": "Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "starsTotal": 13085,
+      "starsSince": 876,
+      "url": "https://github.com/Automattic/harper"
     },
     {
       "rank": 7,
-      "owner": "diegosouzapw",
-      "name": "OmniRoute",
-      "fullName": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "owner": "likec4",
+      "name": "likec4",
+      "fullName": "likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
-      "starsTotal": 27459,
-      "starsSince": 1929,
-      "url": "https://github.com/diegosouzapw/OmniRoute"
+      "starsTotal": 5060,
+      "starsSince": 337,
+      "url": "https://github.com/likec4/likec4"
     },
     {
       "rank": 8,
-      "owner": "ComposioHQ",
-      "name": "awesome-claude-skills",
-      "fullName": "ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "starsTotal": 69541,
-      "starsSince": 636,
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "fullName": "citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "starsTotal": 2714,
+      "starsSince": 880,
+      "url": "https://github.com/citrolabs/ego-lite"
     },
     {
       "rank": 9,
-      "owner": "earthtojake",
-      "name": "text-to-cad",
-      "fullName": "earthtojake/text-to-cad",
-      "description": "A collection of agent skills for CAD, robotics and hardware design",
-      "language": "JavaScript",
-      "starsTotal": 10083,
-      "starsSince": 230,
-      "url": "https://github.com/earthtojake/text-to-cad"
+      "owner": "yorukot",
+      "name": "superfile",
+      "fullName": "yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "starsTotal": 19653,
+      "starsSince": 338,
+      "url": "https://github.com/yorukot/superfile"
     },
     {
       "rank": 10,
-      "owner": "agegr",
-      "name": "pi-web",
-      "fullName": "agegr/pi-web",
-      "description": "Web UI for the pi coding agent",
-      "language": "TypeScript",
-      "starsTotal": 2433,
-      "starsSince": 315,
-      "url": "https://github.com/agegr/pi-web"
+      "owner": "ruvnet",
+      "name": "RuView",
+      "fullName": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "starsTotal": 86011,
+      "starsSince": 1022,
+      "url": "https://github.com/ruvnet/RuView"
     }
   ],
-  "updatedAt": "2026-07-24T04:08:18.671Z"
+  "updatedAt": "2026-07-25T03:57:33.091Z"
 }
