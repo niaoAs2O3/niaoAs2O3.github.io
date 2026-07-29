@@ -2,25 +2,25 @@
   "data": [
     {
       "rank": 1,
-      "owner": "permissionlesstech",
-      "name": "bitchat",
-      "fullName": "permissionlesstech/bitchat",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Swift",
-      "starsTotal": 32449,
-      "starsSince": 2346,
-      "url": "https://github.com/permissionlesstech/bitchat"
+      "owner": "pascalorg",
+      "name": "editor",
+      "fullName": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "starsTotal": 18877,
+      "starsSince": 341,
+      "url": "https://github.com/pascalorg/editor"
     },
     {
       "rank": 2,
-      "owner": "amnezia-vpn",
-      "name": "amnezia-client",
-      "fullName": "amnezia-vpn/amnezia-client",
-      "description": "Amnezia VPN Client (Desktop+Mobile)",
-      "language": "C++",
-      "starsTotal": 13927,
-      "starsSince": 515,
-      "url": "https://github.com/amnezia-vpn/amnezia-client"
+      "owner": "jenkinsci",
+      "name": "jenkins",
+      "fullName": "jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "starsTotal": 26108,
+      "starsSince": 180,
+      "url": "https://github.com/jenkinsci/jenkins"
     },
     {
       "rank": 3,
@@ -29,87 +29,87 @@
       "fullName": "moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "starsTotal": 44178,
-      "starsSince": 572,
+      "starsTotal": 44886,
+      "starsSince": 797,
       "url": "https://github.com/moeru-ai/airi"
     },
     {
       "rank": 4,
+      "owner": "andrewyng",
+      "name": "aisuite",
+      "fullName": "andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "starsTotal": 15725,
+      "starsSince": 62,
+      "url": "https://github.com/andrewyng/aisuite"
+    },
+    {
+      "rank": 5,
+      "owner": "affaan-m",
+      "name": "ECC",
+      "fullName": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "starsTotal": 234951,
+      "starsSince": 636,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 6,
+      "owner": "hello245m",
+      "name": "free-stockdb",
+      "fullName": "hello245m/free-stockdb",
+      "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "language": "HTML",
+      "starsTotal": 1425,
+      "starsSince": 50,
+      "url": "https://github.com/hello245m/free-stockdb"
+    },
+    {
+      "rank": 7,
+      "owner": "huggingface",
+      "name": "speech-to-speech",
+      "fullName": "huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "starsTotal": 7360,
+      "starsSince": 227,
+      "url": "https://github.com/huggingface/speech-to-speech"
+    },
+    {
+      "rank": 8,
+      "owner": "virgiliojr94",
+      "name": "book-to-skill",
+      "fullName": "virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "starsTotal": 11628,
+      "starsSince": 423,
+      "url": "https://github.com/virgiliojr94/book-to-skill"
+    },
+    {
+      "rank": 9,
       "owner": "opengeos",
       "name": "GeoLibre",
       "fullName": "opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "starsTotal": 2818,
-      "starsSince": 420,
+      "starsTotal": 3491,
+      "starsSince": 607,
       "url": "https://github.com/opengeos/GeoLibre"
     },
     {
-      "rank": 5,
-      "owner": "yorukot",
-      "name": "superfile",
-      "fullName": "yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "starsTotal": 20990,
-      "starsSince": 600,
-      "url": "https://github.com/yorukot/superfile"
-    },
-    {
-      "rank": 6,
-      "owner": "NanmiCoder",
-      "name": "MediaCrawler",
-      "fullName": "NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "language": "Python",
-      "starsTotal": 58419,
-      "starsSince": 362,
-      "url": "https://github.com/NanmiCoder/MediaCrawler"
-    },
-    {
-      "rank": 7,
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "fullName": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "starsTotal": 51688,
-      "starsSince": 847,
-      "url": "https://github.com/pbakaus/impeccable"
-    },
-    {
-      "rank": 8,
-      "owner": "shiyu-coder",
-      "name": "Kronos",
-      "fullName": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "starsTotal": 34621,
-      "starsSince": 441,
-      "url": "https://github.com/shiyu-coder/Kronos"
-    },
-    {
-      "rank": 9,
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "fullName": "alibaba/open-code-review",
-      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "language": "Go",
-      "starsTotal": 15012,
-      "starsSince": 979,
-      "url": "https://github.com/alibaba/open-code-review"
-    },
-    {
       "rank": 10,
-      "owner": "jenkinsci",
-      "name": "jenkins",
-      "fullName": "jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "starsTotal": 25912,
-      "starsSince": 180,
-      "url": "https://github.com/jenkinsci/jenkins"
+      "owner": "paperswithbacktest",
+      "name": "awesome-systematic-trading",
+      "fullName": "paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "starsTotal": 9774,
+      "starsSince": 309,
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
     }
   ],
-  "updatedAt": "2026-07-28T03:54:54.274Z"
+  "updatedAt": "2026-07-29T03:58:27.011Z"
 }
