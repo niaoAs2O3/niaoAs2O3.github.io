@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "pascalorg",
-      "name": "editor",
-      "fullName": "pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "language": "TypeScript",
-      "starsTotal": 18877,
-      "starsSince": 341,
-      "url": "https://github.com/pascalorg/editor"
-    },
-    {
-      "rank": 2,
-      "owner": "jenkinsci",
-      "name": "jenkins",
-      "fullName": "jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "starsTotal": 26108,
-      "starsSince": 180,
-      "url": "https://github.com/jenkinsci/jenkins"
-    },
-    {
-      "rank": 3,
-      "owner": "moeru-ai",
-      "name": "airi",
-      "fullName": "moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "language": "TypeScript",
-      "starsTotal": 44886,
-      "starsSince": 797,
-      "url": "https://github.com/moeru-ai/airi"
-    },
-    {
-      "rank": 4,
-      "owner": "andrewyng",
-      "name": "aisuite",
-      "fullName": "andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "starsTotal": 15725,
-      "starsSince": 62,
-      "url": "https://github.com/andrewyng/aisuite"
-    },
-    {
-      "rank": 5,
-      "owner": "affaan-m",
-      "name": "ECC",
-      "fullName": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "starsTotal": 234951,
-      "starsSince": 636,
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "rank": 6,
-      "owner": "hello245m",
-      "name": "free-stockdb",
-      "fullName": "hello245m/free-stockdb",
-      "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
-      "language": "HTML",
-      "starsTotal": 1425,
-      "starsSince": 50,
-      "url": "https://github.com/hello245m/free-stockdb"
-    },
-    {
-      "rank": 7,
-      "owner": "huggingface",
-      "name": "speech-to-speech",
-      "fullName": "huggingface/speech-to-speech",
-      "description": "Build local voice agents with open-source models",
-      "language": "Python",
-      "starsTotal": 7360,
-      "starsSince": 227,
-      "url": "https://github.com/huggingface/speech-to-speech"
-    },
-    {
-      "rank": 8,
-      "owner": "virgiliojr94",
-      "name": "book-to-skill",
-      "fullName": "virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "language": "Python",
-      "starsTotal": 11628,
-      "starsSince": 423,
-      "url": "https://github.com/virgiliojr94/book-to-skill"
-    },
-    {
-      "rank": 9,
       "owner": "opengeos",
       "name": "GeoLibre",
       "fullName": "opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "starsTotal": 3491,
-      "starsSince": 607,
+      "starsTotal": 4149,
+      "starsSince": 671,
       "url": "https://github.com/opengeos/GeoLibre"
     },
     {
-      "rank": 10,
-      "owner": "paperswithbacktest",
-      "name": "awesome-systematic-trading",
-      "fullName": "paperswithbacktest/awesome-systematic-trading",
-      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "rank": 2,
+      "owner": "moeru-ai",
+      "name": "airi",
+      "fullName": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "starsTotal": 45482,
+      "starsSince": 682,
+      "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+      "rank": 3,
+      "owner": "affaan-m",
+      "name": "ECC",
+      "fullName": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "starsTotal": 235681,
+      "starsSince": 857,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 4,
+      "owner": "huggingface",
+      "name": "speech-to-speech",
+      "fullName": "huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "starsTotal": 9774,
-      "starsSince": 309,
-      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+      "starsTotal": 7974,
+      "starsSince": 827,
+      "url": "https://github.com/huggingface/speech-to-speech"
+    },
+    {
+      "rank": 5,
+      "owner": "1jehuang",
+      "name": "jcode",
+      "fullName": "1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "starsTotal": 13564,
+      "starsSince": 640,
+      "url": "https://github.com/1jehuang/jcode"
+    },
+    {
+      "rank": 6,
+      "owner": "grokability",
+      "name": "snipe-it",
+      "fullName": "grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "starsTotal": 14500,
+      "starsSince": 164,
+      "url": "https://github.com/grokability/snipe-it"
+    },
+    {
+      "rank": 7,
+      "owner": "deepfakes",
+      "name": "faceswap",
+      "fullName": "deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
+      "language": "Python",
+      "starsTotal": 56405,
+      "starsSince": 166,
+      "url": "https://github.com/deepfakes/faceswap"
+    },
+    {
+      "rank": 8,
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "fullName": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "starsTotal": 51393,
+      "starsSince": 336,
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+      "rank": 9,
+      "owner": "different-ai",
+      "name": "openwork",
+      "fullName": "different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "starsTotal": 18059,
+      "starsSince": 97,
+      "url": "https://github.com/different-ai/openwork"
+    },
+    {
+      "rank": 10,
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "starsTotal": 263395,
+      "starsSince": 616,
+      "url": "https://github.com/obra/superpowers"
     }
   ],
-  "updatedAt": "2026-07-29T03:58:27.011Z"
+  "updatedAt": "2026-07-30T03:50:47.986Z"
 }
