@@ -7,8 +7,8 @@
       "fullName": "PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "starsTotal": 6714,
-      "starsSince": 2293,
+      "starsTotal": 9112,
+      "starsSince": 2483,
       "url": "https://github.com/PrimeIntellect-ai/prime-agent"
     },
     {
@@ -18,42 +18,42 @@
       "fullName": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "starsTotal": 83950,
-      "starsSince": 1131,
+      "starsTotal": 84623,
+      "starsSince": 779,
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
       "rank": 3,
-      "owner": "cloudflare",
-      "name": "computer",
-      "fullName": "cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "language": "TypeScript",
-      "starsTotal": 5812,
-      "starsSince": 872,
-      "url": "https://github.com/cloudflare/computer"
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "fullName": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "starsTotal": 77977,
+      "starsSince": 118,
+      "url": "https://github.com/TapXWorld/ChinaTextbook"
     },
     {
       "rank": 4,
+      "owner": "google",
+      "name": "skills",
+      "fullName": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "starsTotal": 16782,
+      "starsSince": 481,
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "rank": 5,
       "owner": "mattpocock",
       "name": "skills",
       "fullName": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "starsTotal": 208927,
-      "starsSince": 2152,
+      "starsTotal": 210123,
+      "starsSince": 1359,
       "url": "https://github.com/mattpocock/skills"
-    },
-    {
-      "rank": 5,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 268788,
-      "starsSince": 782,
-      "url": "https://github.com/obra/superpowers"
     },
     {
       "rank": 6,
@@ -62,54 +62,54 @@
       "fullName": "goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "starsTotal": 23639,
-      "starsSince": 530,
+      "starsTotal": 23999,
+      "starsSince": 467,
       "url": "https://github.com/goauthentik/authentik"
     },
     {
       "rank": 7,
-      "owner": "semantica-agi",
-      "name": "semantica",
-      "fullName": "semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "fullName": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "starsTotal": 2375,
-      "starsSince": 122,
-      "url": "https://github.com/semantica-agi/semantica"
+      "starsTotal": 96536,
+      "starsSince": 153,
+      "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "rank": 8,
-      "owner": "666ghj",
-      "name": "MiroFish",
-      "fullName": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "starsTotal": 70537,
-      "starsSince": 141,
-      "url": "https://github.com/666ghj/MiroFish"
+      "owner": "google",
+      "name": "guava",
+      "fullName": "google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "starsTotal": 51862,
+      "starsSince": 93,
+      "url": "https://github.com/google/guava"
     },
     {
       "rank": 9,
-      "owner": "chenyme",
-      "name": "grok2api",
-      "fullName": "chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "language": "Go",
-      "starsTotal": 7149,
-      "starsSince": 55,
-      "url": "https://github.com/chenyme/grok2api"
+      "owner": "LadybirdBrowser",
+      "name": "ladybird",
+      "fullName": "LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "starsTotal": 65019,
+      "starsSince": 48,
+      "url": "https://github.com/LadybirdBrowser/ladybird"
     },
     {
       "rank": 10,
-      "owner": "jdx",
-      "name": "mise",
-      "fullName": "jdx/mise",
-      "description": "dev tools, env vars, task runner",
+      "owner": "denoland",
+      "name": "celld",
+      "fullName": "denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
       "language": "Rust",
-      "starsTotal": 32087,
-      "starsSince": 135,
-      "url": "https://github.com/jdx/mise"
+      "starsTotal": 2617,
+      "starsSince": 432,
+      "url": "https://github.com/denoland/celld"
     }
   ],
-  "updatedAt": "2026-08-08T02:50:28.059Z"
+  "updatedAt": "2026-08-09T02:58:02.812Z"
 }
