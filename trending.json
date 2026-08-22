@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "modular",
-      "name": "modular",
-      "fullName": "modular/modular",
-      "description": "The Modular Platform (includes MAX &amp; Mojo)",
-      "language": "Mojo",
-      "starsTotal": 28005,
-      "starsSince": 268,
-      "url": "https://github.com/modular/modular"
-    },
-    {
-      "rank": 2,
       "owner": "mattpocock",
       "name": "skills",
       "fullName": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "starsTotal": 226713,
-      "starsSince": 2192,
+      "starsTotal": 229616,
+      "starsSince": 3362,
       "url": "https://github.com/mattpocock/skills"
     },
     {
+      "rank": 2,
+      "owner": "mahlernim",
+      "name": "google-timeline-visualizer",
+      "fullName": "mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "Kotlin",
+      "starsTotal": 2245,
+      "starsSince": 1053,
+      "url": "https://github.com/mahlernim/google-timeline-visualizer"
+    },
+    {
       "rank": 3,
-      "owner": "AprilNEA",
-      "name": "OpenLogi",
-      "fullName": "AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "starsTotal": 11959,
-      "starsSince": 1545,
-      "url": "https://github.com/AprilNEA/OpenLogi"
-    },
-    {
-      "rank": 4,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 274987,
-      "starsSince": 727,
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "rank": 5,
-      "owner": "cursor",
-      "name": "plugins",
-      "fullName": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "starsTotal": 4108,
-      "starsSince": 449,
-      "url": "https://github.com/cursor/plugins"
-    },
-    {
-      "rank": 6,
-      "owner": "santifer",
-      "name": "career-ops",
-      "fullName": "santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "language": "JavaScript",
-      "starsTotal": 66749,
-      "starsSince": 816,
-      "url": "https://github.com/santifer/career-ops"
-    },
-    {
-      "rank": 7,
-      "owner": "akitaonrails",
-      "name": "ai-memory",
-      "fullName": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "starsTotal": 3652,
-      "starsSince": 332,
-      "url": "https://github.com/akitaonrails/ai-memory"
-    },
-    {
-      "rank": 8,
       "owner": "harry0703",
       "name": "MoneyPrinterTurbo",
       "fullName": "harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "starsTotal": 113036,
-      "starsSince": 2761,
+      "starsTotal": 113968,
+      "starsSince": 1201,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
-      "rank": 9,
-      "owner": "agent-substrate",
-      "name": "substrate",
-      "fullName": "agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
+      "rank": 4,
+      "owner": "AprilNEA",
+      "name": "OpenLogi",
+      "fullName": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "starsTotal": 12988,
+      "starsSince": 1380,
+      "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+      "rank": 5,
+      "owner": "PostHog",
+      "name": "posthog",
+      "fullName": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "starsTotal": 38303,
+      "starsSince": 335,
+      "url": "https://github.com/PostHog/posthog"
+    },
+    {
+      "rank": 6,
+      "owner": "microsoft",
+      "name": "TypeScript",
+      "fullName": "microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "Go",
-      "starsTotal": 1414,
-      "starsSince": 22,
-      "url": "https://github.com/agent-substrate/substrate"
+      "starsTotal": 110387,
+      "starsSince": 65,
+      "url": "https://github.com/microsoft/TypeScript"
+    },
+    {
+      "rank": 7,
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "starsTotal": 275673,
+      "starsSince": 790,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 8,
+      "owner": "santifer",
+      "name": "career-ops",
+      "fullName": "santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "starsTotal": 67475,
+      "starsSince": 921,
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "rank": 9,
+      "owner": "cursor",
+      "name": "plugins",
+      "fullName": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "starsTotal": 4419,
+      "starsSince": 388,
+      "url": "https://github.com/cursor/plugins"
     },
     {
       "rank": 10,
-      "owner": "chaitanyagiri",
-      "name": "munder-difflin",
-      "fullName": "chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "language": "TypeScript",
-      "starsTotal": 3142,
-      "starsSince": 507,
-      "url": "https://github.com/chaitanyagiri/munder-difflin"
+      "owner": "modular",
+      "name": "modular",
+      "fullName": "modular/modular",
+      "description": "The Modular Platform (includes MAX &amp; Mojo)",
+      "language": "Mojo",
+      "starsTotal": 28697,
+      "starsSince": 913,
+      "url": "https://github.com/modular/modular"
     }
   ],
-  "updatedAt": "2026-08-21T02:18:19.454Z"
+  "updatedAt": "2026-08-22T02:09:26.449Z"
 }
