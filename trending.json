@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "openai",
-      "name": "codex",
-      "fullName": "openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "starsTotal": 115422,
-      "starsSince": 2715,
-      "url": "https://github.com/openai/codex"
-    },
-    {
-      "rank": 2,
-      "owner": "freestylefly",
-      "name": "awesome-gpt-image-2",
-      "fullName": "freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "language": "JavaScript",
-      "starsTotal": 12935,
-      "starsSince": 401,
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-    },
-    {
-      "rank": 3,
-      "owner": "mattpocock",
-      "name": "skills",
-      "fullName": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "starsTotal": 233963,
-      "starsSince": 2447,
-      "url": "https://github.com/mattpocock/skills"
-    },
-    {
-      "rank": 4,
-      "owner": "basecamp",
-      "name": "omarchy",
-      "fullName": "basecamp/omarchy",
-      "description": "Beautiful, Modern &amp; Opinionated Linux",
-      "language": "Shell",
-      "starsTotal": 29189,
-      "starsSince": 750,
-      "url": "https://github.com/basecamp/omarchy"
-    },
-    {
-      "rank": 5,
-      "owner": "AprilNEA",
-      "name": "OpenLogi",
-      "fullName": "AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "starsTotal": 15013,
-      "starsSince": 1009,
-      "url": "https://github.com/AprilNEA/OpenLogi"
-    },
-    {
-      "rank": 6,
-      "owner": "block",
-      "name": "buzz",
-      "fullName": "block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "starsTotal": 30146,
-      "starsSince": 410,
-      "url": "https://github.com/block/buzz"
-    },
-    {
-      "rank": 7,
-      "owner": "apache",
-      "name": "maka",
-      "fullName": "apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "language": "TypeScript",
-      "starsTotal": 2377,
-      "starsSince": 51,
-      "url": "https://github.com/apache/maka"
-    },
-    {
-      "rank": 8,
       "owner": "Alishahryar1",
       "name": "free-claude-code",
       "fullName": "Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
-      "starsTotal": 48023,
-      "starsSince": 1081,
+      "starsTotal": 49056,
+      "starsSince": 891,
       "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
-      "rank": 9,
-      "owner": "tinyhumansai",
-      "name": "openhuman",
-      "fullName": "tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "rank": 2,
+      "owner": "openai",
+      "name": "codex",
+      "fullName": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "starsTotal": 36793,
-      "starsSince": 39,
-      "url": "https://github.com/tinyhumansai/openhuman"
+      "starsTotal": 117160,
+      "starsSince": 1994,
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "rank": 3,
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "fullName": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "starsTotal": 34131,
+      "starsSince": 434,
+      "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "rank": 4,
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "fullName": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "starsTotal": 206575,
+      "starsSince": 588,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "rank": 5,
+      "owner": "makeplane",
+      "name": "plane",
+      "fullName": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "starsTotal": 57969,
+      "starsSince": 243,
+      "url": "https://github.com/makeplane/plane"
+    },
+    {
+      "rank": 6,
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "fullName": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "starsTotal": 235851,
+      "starsSince": 896,
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "rank": 7,
+      "owner": "anthropics",
+      "name": "claude-plugins-community",
+      "fullName": "anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "starsTotal": 1378,
+      "starsSince": 489,
+      "url": "https://github.com/anthropics/claude-plugins-community"
+    },
+    {
+      "rank": 8,
+      "owner": "AprilNEA",
+      "name": "OpenLogi",
+      "fullName": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "starsTotal": 15916,
+      "starsSince": 1097,
+      "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+      "rank": 9,
+      "owner": "apache",
+      "name": "maka",
+      "fullName": "apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "starsTotal": 2943,
+      "starsSince": 411,
+      "url": "https://github.com/apache/maka"
     },
     {
       "rank": 10,
-      "owner": "affaan-m",
-      "name": "ECC",
-      "fullName": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "starsTotal": 242584,
-      "starsSince": 427,
-      "url": "https://github.com/affaan-m/ECC"
+      "owner": "PostHog",
+      "name": "posthog",
+      "fullName": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "starsTotal": 39012,
+      "starsSince": 83,
+      "url": "https://github.com/PostHog/posthog"
     }
   ],
-  "updatedAt": "2026-08-24T02:17:31.708Z"
+  "updatedAt": "2026-08-25T02:13:40.355Z"
 }
