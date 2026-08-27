@@ -2,58 +2,58 @@
   "data": [
     {
       "rank": 1,
+      "owner": "tt-a1i",
+      "name": "archify",
+      "fullName": "tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "starsTotal": 20644,
+      "starsSince": 1035,
+      "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+      "rank": 2,
       "owner": "freestylefly",
       "name": "awesome-gpt-image-2",
       "fullName": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "starsTotal": 18236,
-      "starsSince": 1698,
+      "starsTotal": 22408,
+      "starsSince": 4050,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "owner": "anthropics",
-      "name": "claude-plugins-community",
-      "fullName": "anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "name": "claude-plugins-official",
+      "fullName": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "starsTotal": 1793,
-      "starsSince": 351,
-      "url": "https://github.com/anthropics/claude-plugins-community"
+      "starsTotal": 34489,
+      "starsSince": 308,
+      "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "fullName": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "starsTotal": 50697,
+      "starsSince": 536,
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "rank": 5,
       "owner": "MadsLorentzen",
       "name": "ai-job-search",
       "fullName": "MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
-      "starsTotal": 35382,
-      "starsSince": 1265,
+      "starsTotal": 36980,
+      "starsSince": 1300,
       "url": "https://github.com/MadsLorentzen/ai-job-search"
-    },
-    {
-      "rank": 4,
-      "owner": "apache",
-      "name": "maka",
-      "fullName": "apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "language": "TypeScript",
-      "starsTotal": 3373,
-      "starsSince": 543,
-      "url": "https://github.com/apache/maka"
-    },
-    {
-      "rank": 5,
-      "owner": "TauricResearch",
-      "name": "TradingAgents",
-      "fullName": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "starsTotal": 100302,
-      "starsSince": 218,
-      "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "rank": 6,
@@ -62,54 +62,54 @@
       "fullName": "AgriciDaniel/claude-obsidian",
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
-      "starsTotal": 12777,
-      "starsSince": 813,
+      "starsTotal": 13691,
+      "starsSince": 810,
       "url": "https://github.com/AgriciDaniel/claude-obsidian"
     },
     {
       "rank": 7,
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "starsTotal": 49051,
-      "starsSince": 569,
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
-    },
-    {
-      "rank": 8,
-      "owner": "tinyhumansai",
-      "name": "openhuman",
-      "fullName": "tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "language": "Rust",
-      "starsTotal": 37804,
-      "starsSince": 542,
-      "url": "https://github.com/tinyhumansai/openhuman"
-    },
-    {
-      "rank": 9,
       "owner": "basecamp",
       "name": "omarchy",
       "fullName": "basecamp/omarchy",
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "language": "Shell",
-      "starsTotal": 31337,
-      "starsSince": 1083,
+      "starsTotal": 32332,
+      "starsSince": 1024,
       "url": "https://github.com/basecamp/omarchy"
     },
     {
-      "rank": 10,
-      "owner": "Shubhamsaboo",
-      "name": "awesome-llm-apps",
-      "fullName": "Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "rank": 8,
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "starsTotal": 134267,
-      "starsSince": 161,
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+      "starsTotal": 49865,
+      "starsSince": 838,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "rank": 9,
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "fullName": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "starsTotal": 38425,
+      "starsSince": 525,
+      "url": "https://github.com/tinyhumansai/openhuman"
+    },
+    {
+      "rank": 10,
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "fullName": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "starsTotal": 113339,
+      "starsSince": 1598,
+      "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "updatedAt": "2026-08-26T02:19:47.449Z"
+  "updatedAt": "2026-08-27T10:46:48.788Z"
 }
