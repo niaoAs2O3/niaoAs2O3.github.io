@@ -7,8 +7,8 @@
       "fullName": "tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "starsTotal": 25480,
-      "starsSince": 4561,
+      "starsTotal": 28537,
+      "starsSince": 4562,
       "url": "https://github.com/tt-a1i/archify"
     },
     {
@@ -18,7 +18,7 @@
       "fullName": "K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "starsTotal": 35747,
+      "starsTotal": 37003,
       "starsSince": 720,
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
@@ -29,7 +29,7 @@
       "fullName": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "starsTotal": 34850,
+      "starsTotal": 35133,
       "starsSince": 457,
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
@@ -40,8 +40,8 @@
       "fullName": "bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "starsTotal": 9999,
-      "starsSince": 1984,
+      "starsTotal": 11486,
+      "starsSince": 3829,
       "url": "https://github.com/bilawalsidhu/gods-eye-view"
     },
     {
@@ -51,8 +51,8 @@
       "fullName": "abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "starsTotal": 46022,
-      "starsSince": 189,
+      "starsTotal": 46235,
+      "starsSince": 202,
       "url": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
@@ -62,7 +62,7 @@
       "fullName": "JetBrains/go-modern-guidelines",
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
-      "starsTotal": 2429,
+      "starsTotal": 2677,
       "starsSince": 574,
       "url": "https://github.com/JetBrains/go-modern-guidelines"
     },
@@ -73,7 +73,7 @@
       "fullName": "calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "starsTotal": 52906,
+      "starsTotal": 53507,
       "starsSince": 1144,
       "url": "https://github.com/calesthio/OpenMontage"
     },
@@ -84,8 +84,8 @@
       "fullName": "abi/screenshot-to-code",
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
-      "starsTotal": 75265,
-      "starsSince": 309,
+      "starsTotal": 75698,
+      "starsSince": 326,
       "url": "https://github.com/abi/screenshot-to-code"
     },
     {
@@ -95,8 +95,8 @@
       "fullName": "cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "starsTotal": 5826,
-      "starsSince": 257,
+      "starsTotal": 6027,
+      "starsSince": 246,
       "url": "https://github.com/cursor/plugins"
     },
     {
@@ -106,10 +106,10 @@
       "fullName": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "starsTotal": 23963,
+      "starsTotal": 24502,
       "starsSince": 1687,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
     }
   ],
-  "updatedAt": "2026-08-28T12:23:34.832Z"
+  "updatedAt": "2026-08-29T07:33:10.672Z"
 }
