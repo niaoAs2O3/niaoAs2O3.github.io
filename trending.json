@@ -2,47 +2,47 @@
   "data": [
     {
       "rank": 1,
-      "owner": "fmtlib",
-      "name": "fmt",
-      "fullName": "fmtlib/fmt",
-      "description": "A modern formatting library",
-      "language": "C++",
-      "starsTotal": 25200,
-      "starsSince": 963,
-      "url": "https://github.com/fmtlib/fmt"
-    },
-    {
-      "rank": 2,
       "owner": "mattpocock",
       "name": "skills",
       "fullName": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "starsTotal": 247884,
-      "starsSince": 1601,
+      "starsTotal": 250694,
+      "starsSince": 2758,
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "rank": 3,
-      "owner": "NousResearch",
-      "name": "hermes-agent",
-      "fullName": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "starsTotal": 240986,
-      "starsSince": 774,
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "owner": "DietrichGebert",
       "name": "ponytail",
       "fullName": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "starsTotal": 123755,
-      "starsSince": 2128,
+      "starsTotal": 126437,
+      "starsSince": 1679,
       "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "rank": 3,
+      "owner": "fmtlib",
+      "name": "fmt",
+      "fullName": "fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "starsTotal": 25493,
+      "starsSince": 688,
+      "url": "https://github.com/fmtlib/fmt"
+    },
+    {
+      "rank": 4,
+      "owner": "affaan-m",
+      "name": "ECC",
+      "fullName": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "starsTotal": 248665,
+      "starsSince": 1135,
+      "url": "https://github.com/affaan-m/ECC"
     },
     {
       "rank": 5,
@@ -51,65 +51,65 @@
       "fullName": "anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "starsTotal": 173754,
-      "starsSince": 281,
+      "starsTotal": 174201,
+      "starsSince": 511,
       "url": "https://github.com/anthropics/skills"
     },
     {
       "rank": 6,
-      "owner": "affaan-m",
-      "name": "ECC",
-      "fullName": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "starsTotal": 247392,
-      "starsSince": 751,
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "rank": 7,
-      "owner": "JuliusBrussee",
-      "name": "caveman",
-      "fullName": "JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "Go",
-      "starsTotal": 103192,
-      "starsSince": 543,
-      "url": "https://github.com/JuliusBrussee/caveman"
-    },
-    {
-      "rank": 8,
       "owner": "blader",
       "name": "humanizer",
       "fullName": "blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
-      "starsTotal": 41711,
-      "starsSince": 1208,
+      "starsTotal": 42855,
+      "starsSince": 1130,
       "url": "https://github.com/blader/humanizer"
     },
     {
-      "rank": 9,
-      "owner": "google-research",
-      "name": "timesfm",
-      "fullName": "google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "rank": 7,
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "fullName": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "starsTotal": 30763,
-      "starsSince": 1618,
-      "url": "https://github.com/google-research/timesfm"
+      "starsTotal": 241589,
+      "starsSince": 720,
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "rank": 8,
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "fullName": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "starsTotal": 103630,
+      "starsSince": 501,
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "rank": 9,
+      "owner": "magnitudedev",
+      "name": "magnitude",
+      "fullName": "magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "starsTotal": 2606,
+      "starsSince": 391,
+      "url": "https://github.com/magnitudedev/magnitude"
     },
     {
       "rank": 10,
-      "owner": "averygan",
-      "name": "reclip",
-      "fullName": "averygan/reclip",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "language": "HTML",
-      "starsTotal": 8483,
-      "starsSince": 88,
-      "url": "https://github.com/averygan/reclip"
+      "owner": "bikini",
+      "name": "exploitarium",
+      "fullName": "bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "language": "Python",
+      "starsTotal": 4554,
+      "starsSince": 74,
+      "url": "https://github.com/bikini/exploitarium"
     }
   ],
-  "updatedAt": "2026-09-04T05:16:01.297Z"
+  "updatedAt": "2026-09-05T05:05:27.029Z"
 }
