@@ -7,8 +7,8 @@
       "fullName": "ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "starsTotal": 38935,
-      "starsSince": 3882,
+      "starsTotal": 42247,
+      "starsSince": 3463,
       "url": "https://github.com/ayghri/i-have-adhd"
     },
     {
@@ -18,98 +18,98 @@
       "fullName": "bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "starsTotal": 24895,
-      "starsSince": 1762,
+      "starsTotal": 27416,
+      "starsSince": 3680,
       "url": "https://github.com/bilawalsidhu/gods-eye-view"
     },
     {
       "rank": 3,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 284832,
-      "starsSince": 732,
-      "url": "https://github.com/obra/superpowers"
+      "owner": "nab138",
+      "name": "iloader",
+      "fullName": "nab138/iloader",
+      "description": "User friendly sideloader",
+      "language": "TypeScript",
+      "starsTotal": 2942,
+      "starsSince": 50,
+      "url": "https://github.com/nab138/iloader"
     },
     {
       "rank": 4,
-      "owner": "alsk1992",
-      "name": "CloddsBot",
-      "fullName": "alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "owner": "melgarafael",
+      "name": "DeskcommCRM",
+      "fullName": "melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "starsTotal": 1785,
-      "starsSince": 277,
-      "url": "https://github.com/alsk1992/CloddsBot"
+      "starsTotal": 1436,
+      "starsSince": 152,
+      "url": "https://github.com/melgarafael/DeskcommCRM"
     },
     {
       "rank": 5,
-      "owner": "Tencent",
-      "name": "teamai-cli",
-      "fullName": "Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
+      "owner": "vastsa",
+      "name": "PI-Desktop",
+      "fullName": "vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
-      "starsTotal": 3929,
-      "starsSince": 841,
-      "url": "https://github.com/Tencent/teamai-cli"
+      "starsTotal": 2854,
+      "starsSince": 552,
+      "url": "https://github.com/vastsa/PI-Desktop"
     },
     {
       "rank": 6,
-      "owner": "AlexsJones",
-      "name": "llmfit",
-      "fullName": "AlexsJones/llmfit",
-      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "starsTotal": 35836,
-      "starsSince": 258,
-      "url": "https://github.com/AlexsJones/llmfit"
-    },
-    {
-      "rank": 7,
-      "owner": "liquidslr",
-      "name": "system-design-notes",
-      "fullName": "liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "language": "",
-      "starsTotal": 18963,
-      "starsSince": 900,
-      "url": "https://github.com/liquidslr/system-design-notes"
-    },
-    {
-      "rank": 8,
-      "owner": "cathrynlavery",
-      "name": "diagram-design",
-      "fullName": "cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "starsTotal": 37968,
-      "starsSince": 1294,
-      "url": "https://github.com/cathrynlavery/diagram-design"
-    },
-    {
-      "rank": 9,
-      "owner": "freestylefly",
-      "name": "awesome-gpt-image-2",
-      "fullName": "freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-      "language": "JavaScript",
-      "starsTotal": 31033,
-      "starsSince": 962,
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-    },
-    {
-      "rank": 10,
       "owner": "armory3d",
       "name": "armorpaint",
       "fullName": "armory3d/armorpaint",
       "description": "Graphics Creation Tools",
       "language": "C",
-      "starsTotal": 4500,
-      "starsSince": 72,
+      "starsTotal": 4769,
+      "starsSince": 350,
       "url": "https://github.com/armory3d/armorpaint"
+    },
+    {
+      "rank": 7,
+      "owner": "alsk1992",
+      "name": "CloddsBot",
+      "fullName": "alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "starsTotal": 2227,
+      "starsSince": 626,
+      "url": "https://github.com/alsk1992/CloddsBot"
+    },
+    {
+      "rank": 8,
+      "owner": "nashsu",
+      "name": "llm_wiki",
+      "fullName": "nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "starsTotal": 18830,
+      "starsSince": 647,
+      "url": "https://github.com/nashsu/llm_wiki"
+    },
+    {
+      "rank": 9,
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "starsTotal": 285454,
+      "starsSince": 729,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 10,
+      "owner": "Sonarr",
+      "name": "Sonarr",
+      "fullName": "Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "starsTotal": 15771,
+      "starsSince": 191,
+      "url": "https://github.com/Sonarr/Sonarr"
     }
   ],
-  "updatedAt": "2026-09-11T05:27:16.994Z"
+  "updatedAt": "2026-09-12T05:16:42.669Z"
 }
