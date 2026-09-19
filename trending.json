@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "fullName": "alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "language": "Go",
-      "starsTotal": 35372,
-      "starsSince": 3286,
-      "url": "https://github.com/alibaba/open-code-review"
-    },
-    {
-      "rank": 2,
       "owner": "cloudflare",
       "name": "security-audit-skill",
       "fullName": "cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "starsTotal": 11061,
-      "starsSince": 3607,
+      "starsTotal": 14138,
+      "starsSince": 3006,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
-      "rank": 3,
-      "owner": "addyosmani",
-      "name": "agent-skills",
-      "fullName": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "starsTotal": 95979,
-      "starsSince": 680,
-      "url": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "rank": 4,
-      "owner": "Tencent",
-      "name": "BrowserSkill",
-      "fullName": "Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "TypeScript",
-      "starsTotal": 4463,
-      "starsSince": 1302,
-      "url": "https://github.com/Tencent/BrowserSkill"
-    },
-    {
-      "rank": 5,
-      "owner": "alphaXiv",
-      "name": "OpenResearch",
-      "fullName": "alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "language": "Rust",
-      "starsTotal": 5078,
-      "starsSince": 939,
-      "url": "https://github.com/alphaXiv/OpenResearch"
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "owner": "anthropics",
       "name": "claude-code",
       "fullName": "anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "starsTotal": 145943,
-      "starsSince": 538,
+      "starsTotal": 146387,
+      "starsSince": 444,
       "url": "https://github.com/anthropics/claude-code"
     },
     {
+      "rank": 3,
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "fullName": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "starsTotal": 36857,
+      "starsSince": 2704,
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "rank": 4,
+      "owner": "affaan-m",
+      "name": "ECC",
+      "fullName": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "starsTotal": 262196,
+      "starsSince": 958,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 5,
+      "owner": "Tencent",
+      "name": "BrowserSkill",
+      "fullName": "Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "starsTotal": 5429,
+      "starsSince": 1306,
+      "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+      "rank": 6,
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "fullName": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "starsTotal": 96500,
+      "starsSince": 675,
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
       "rank": 7,
-      "owner": "NationalSecurityAgency",
-      "name": "ghidra",
-      "fullName": "NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "starsTotal": 78630,
-      "starsSince": 912,
-      "url": "https://github.com/NationalSecurityAgency/ghidra"
+      "owner": "TencentCloud",
+      "name": "Octop",
+      "fullName": "TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "starsTotal": 4025,
+      "starsSince": 569,
+      "url": "https://github.com/TencentCloud/Octop"
     },
     {
       "rank": 8,
+      "owner": "Fission-AI",
+      "name": "OpenSpec",
+      "fullName": "Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "starsTotal": 69433,
+      "starsSince": 296,
+      "url": "https://github.com/Fission-AI/OpenSpec"
+    },
+    {
+      "rank": 9,
+      "owner": "ankitects",
+      "name": "anki",
+      "fullName": "ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "starsTotal": 31241,
+      "starsSince": 174,
+      "url": "https://github.com/ankitects/anki"
+    },
+    {
+      "rank": 10,
       "owner": "anthropics",
       "name": "knowledge-work-plugins",
       "fullName": "anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "starsTotal": 24629,
-      "starsSince": 287,
+      "starsTotal": 24929,
+      "starsSince": 299,
       "url": "https://github.com/anthropics/knowledge-work-plugins"
-    },
-    {
-      "rank": 9,
-      "owner": "Tencent",
-      "name": "WeKnora",
-      "fullName": "Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "starsTotal": 26514,
-      "starsSince": 1125,
-      "url": "https://github.com/Tencent/WeKnora"
-    },
-    {
-      "rank": 10,
-      "owner": "abue-ammar",
-      "name": "tinycast",
-      "fullName": "abue-ammar/tinycast",
-      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-      "language": "Swift",
-      "starsTotal": 6226,
-      "starsSince": 739,
-      "url": "https://github.com/abue-ammar/tinycast"
     }
   ],
-  "updatedAt": "2026-09-18T05:24:43.742Z"
+  "updatedAt": "2026-09-19T05:19:17.995Z"
 }
