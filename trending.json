@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "anthropics",
-      "name": "financial-services",
-      "fullName": "anthropics/financial-services",
-      "description": "",
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "starsTotal": 37054,
-      "starsSince": 664,
-      "url": "https://github.com/anthropics/financial-services"
+      "starsTotal": 56784,
+      "starsSince": 347,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
       "rank": 2,
-      "owner": "google",
-      "name": "ax",
-      "fullName": "google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "starsTotal": 9339,
-      "starsSince": 1543,
-      "url": "https://github.com/google/ax"
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "fullName": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "starsTotal": 28124,
+      "starsSince": 1668,
+      "url": "https://github.com/vectorize-io/hindsight"
     },
     {
       "rank": 3,
-      "owner": "davila7",
-      "name": "claude-code-templates",
-      "fullName": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "starsTotal": 31580,
-      "starsSince": 389,
-      "url": "https://github.com/davila7/claude-code-templates"
-    },
-    {
-      "rank": 4,
-      "owner": "BuilderIO",
-      "name": "agent-native",
-      "fullName": "BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "language": "TypeScript",
-      "starsTotal": 6636,
-      "starsSince": 87,
-      "url": "https://github.com/BuilderIO/agent-native"
-    },
-    {
-      "rank": 5,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 290803,
-      "starsSince": 474,
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "rank": 6,
       "owner": "dream-num",
       "name": "univer",
       "fullName": "dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "starsTotal": 16484,
-      "starsSince": 1142,
+      "starsTotal": 17945,
+      "starsSince": 1082,
       "url": "https://github.com/dream-num/univer"
     },
     {
-      "rank": 7,
-      "owner": "Open-Dev-Society",
-      "name": "OpenStock",
-      "fullName": "Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "rank": 4,
+      "owner": "google",
+      "name": "ax",
+      "fullName": "google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "starsTotal": 10701,
+      "starsSince": 1373,
+      "url": "https://github.com/google/ax"
+    },
+    {
+      "rank": 5,
+      "owner": "NVIDIA",
+      "name": "Model-Optimizer",
+      "fullName": "NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "starsTotal": 4148,
+      "starsSince": 44,
+      "url": "https://github.com/NVIDIA/Model-Optimizer"
+    },
+    {
+      "rank": 6,
+      "owner": "FxEmbed",
+      "name": "FxEmbed",
+      "fullName": "FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
       "language": "TypeScript",
-      "starsTotal": 18942,
-      "starsSince": 344,
-      "url": "https://github.com/Open-Dev-Society/OpenStock"
+      "starsTotal": 5399,
+      "starsSince": 182,
+      "url": "https://github.com/FxEmbed/FxEmbed"
+    },
+    {
+      "rank": 7,
+      "owner": "anthropics",
+      "name": "financial-services",
+      "fullName": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "starsTotal": 37416,
+      "starsSince": 509,
+      "url": "https://github.com/anthropics/financial-services"
     },
     {
       "rank": 8,
-      "owner": "agent-substrate",
-      "name": "substrate",
-      "fullName": "agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "starsTotal": 3573,
-      "starsSince": 558,
-      "url": "https://github.com/agent-substrate/substrate"
-    },
-    {
-      "rank": 9,
-      "owner": "strands-agents",
-      "name": "harness-sdk",
-      "fullName": "strands-agents/harness-sdk",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
-      "language": "Python",
-      "starsTotal": 7949,
-      "starsSince": 115,
-      "url": "https://github.com/strands-agents/harness-sdk"
-    },
-    {
-      "rank": 10,
       "owner": "HKUDS",
       "name": "CLI-Anything",
       "fullName": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "starsTotal": 50025,
-      "starsSince": 57,
+      "starsTotal": 50394,
+      "starsSince": 413,
       "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "rank": 9,
+      "owner": "mvt-project",
+      "name": "mvt",
+      "fullName": "mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "starsTotal": 14758,
+      "starsSince": 272,
+      "url": "https://github.com/mvt-project/mvt"
+    },
+    {
+      "rank": 10,
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "starsTotal": 291298,
+      "starsSince": 611,
+      "url": "https://github.com/obra/superpowers"
     }
   ],
-  "updatedAt": "2026-09-24T05:40:20.839Z"
+  "updatedAt": "2026-09-25T05:38:22.260Z"
 }
