@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "starsTotal": 56784,
-      "starsSince": 347,
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "fullName": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "starsTotal": 85346,
+      "starsSince": 2109,
+      "url": "https://github.com/paperclipai/paperclip"
     },
     {
       "rank": 2,
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "fullName": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "starsTotal": 36978,
+      "starsSince": 83,
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "rank": 3,
       "owner": "vectorize-io",
       "name": "hindsight",
       "fullName": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "starsTotal": 28124,
-      "starsSince": 1668,
+      "starsTotal": 30109,
+      "starsSince": 1653,
       "url": "https://github.com/vectorize-io/hindsight"
     },
     {
-      "rank": 3,
-      "owner": "dream-num",
-      "name": "univer",
-      "fullName": "dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "starsTotal": 17945,
-      "starsSince": 1082,
-      "url": "https://github.com/dream-num/univer"
-    },
-    {
       "rank": 4,
-      "owner": "google",
-      "name": "ax",
-      "fullName": "google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "starsTotal": 10701,
-      "starsSince": 1373,
-      "url": "https://github.com/google/ax"
-    },
-    {
-      "rank": 5,
-      "owner": "NVIDIA",
-      "name": "Model-Optimizer",
-      "fullName": "NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "language": "Python",
-      "starsTotal": 4148,
-      "starsSince": 44,
-      "url": "https://github.com/NVIDIA/Model-Optimizer"
-    },
-    {
-      "rank": 6,
-      "owner": "FxEmbed",
-      "name": "FxEmbed",
-      "fullName": "FxEmbed/FxEmbed",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "language": "TypeScript",
-      "starsTotal": 5399,
-      "starsSince": 182,
-      "url": "https://github.com/FxEmbed/FxEmbed"
-    },
-    {
-      "rank": 7,
-      "owner": "anthropics",
-      "name": "financial-services",
-      "fullName": "anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "starsTotal": 37416,
-      "starsSince": 509,
-      "url": "https://github.com/anthropics/financial-services"
-    },
-    {
-      "rank": 8,
-      "owner": "HKUDS",
-      "name": "CLI-Anything",
-      "fullName": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "starsTotal": 50394,
-      "starsSince": 413,
-      "url": "https://github.com/HKUDS/CLI-Anything"
-    },
-    {
-      "rank": 9,
-      "owner": "mvt-project",
-      "name": "mvt",
-      "fullName": "mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "language": "Python",
-      "starsTotal": 14758,
-      "starsSince": 272,
-      "url": "https://github.com/mvt-project/mvt"
-    },
-    {
-      "rank": 10,
       "owner": "obra",
       "name": "superpowers",
       "fullName": "obra/superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "language": "Shell",
-      "starsTotal": 291298,
-      "starsSince": 611,
+      "starsTotal": 291726,
+      "starsSince": 468,
       "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 5,
+      "owner": "mattpocock",
+      "name": "skills",
+      "fullName": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsTotal": 269821,
+      "starsSince": 583,
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 6,
+      "owner": "dream-num",
+      "name": "univer",
+      "fullName": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "starsTotal": 18781,
+      "starsSince": 1050,
+      "url": "https://github.com/dream-num/univer"
+    },
+    {
+      "rank": 7,
+      "owner": "anthropics",
+      "name": "skills",
+      "fullName": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "starsTotal": 178395,
+      "starsSince": 189,
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "rank": 8,
+      "owner": "androoAGI",
+      "name": "starnet",
+      "fullName": "androoAGI/starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "language": "JavaScript",
+      "starsTotal": 533,
+      "starsSince": 93,
+      "url": "https://github.com/androoAGI/starnet"
+    },
+    {
+      "rank": 9,
+      "owner": "derv82",
+      "name": "wifit3",
+      "fullName": "derv82/wifit3",
+      "description": "Wifite but USB-only &amp; cross-platform.",
+      "language": "Python",
+      "starsTotal": 1007,
+      "starsSince": 183,
+      "url": "https://github.com/derv82/wifit3"
+    },
+    {
+      "rank": 10,
+      "owner": "kelseyhightower",
+      "name": "kubernetes-the-hard-way",
+      "fullName": "kelseyhightower/kubernetes-the-hard-way",
+      "description": "Bootstrap Kubernetes the hard way. No scripts.",
+      "language": "",
+      "starsTotal": 50155,
+      "starsSince": 119,
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
     }
   ],
-  "updatedAt": "2026-09-25T05:38:22.260Z"
+  "updatedAt": "2026-09-26T05:42:34.173Z"
 }
