@@ -7,20 +7,20 @@
       "fullName": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "language": "Python",
-      "starsTotal": 45115,
-      "starsSince": 3221,
+      "starsTotal": 48818,
+      "starsSince": 4758,
       "url": "https://github.com/debpalash/VoiceStudio"
     },
     {
       "rank": 2,
-      "owner": "paperclipai",
-      "name": "paperclip",
-      "fullName": "paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "starsTotal": 93341,
-      "starsSince": 3197,
-      "url": "https://github.com/paperclipai/paperclip"
+      "owner": "NVIDIA",
+      "name": "OpenShell",
+      "fullName": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "starsTotal": 10868,
+      "starsSince": 990,
+      "url": "https://github.com/NVIDIA/OpenShell"
     },
     {
       "rank": 3,
@@ -29,65 +29,87 @@
       "fullName": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "starsTotal": 41492,
-      "starsSince": 4561,
+      "starsTotal": 43159,
+      "starsSince": 2575,
       "url": "https://github.com/vectorize-io/hindsight"
     },
     {
       "rank": 4,
-      "owner": "NawfalMotii79",
-      "name": "PLFM_RADAR",
-      "fullName": "NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "language": "PLSQL",
-      "starsTotal": 25866,
-      "starsSince": 158,
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "fullName": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "starsTotal": 94726,
+      "starsSince": 2458,
+      "url": "https://github.com/paperclipai/paperclip"
     },
     {
       "rank": 5,
-      "owner": "cs341-illinois",
-      "name": "coursebook",
-      "fullName": "cs341-illinois/coursebook",
-      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "language": "TeX",
-      "starsTotal": 2635,
-      "starsSince": 195,
-      "url": "https://github.com/cs341-illinois/coursebook"
+      "owner": "t8y2",
+      "name": "dbx",
+      "fullName": "t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "starsTotal": 22407,
+      "starsSince": 232,
+      "url": "https://github.com/t8y2/dbx"
     },
     {
       "rank": 6,
-      "owner": "byoungd",
-      "name": "up",
-      "fullName": "byoungd/up",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "language": "JavaScript",
-      "starsTotal": 65004,
-      "starsSince": 327,
-      "url": "https://github.com/byoungd/up"
-    },
-    {
-      "rank": 7,
       "owner": "mvschwarz",
       "name": "openrig",
       "fullName": "mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "starsTotal": 1908,
-      "starsSince": 734,
+      "starsTotal": 2562,
+      "starsSince": 737,
       "url": "https://github.com/mvschwarz/openrig"
     },
     {
-      "rank": 8,
-      "owner": "dream-num",
-      "name": "univer",
-      "fullName": "dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "rank": 7,
+      "owner": "oblien",
+      "name": "openship",
+      "fullName": "oblien/openship",
+      "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "starsTotal": 21438,
-      "starsSince": 1099,
-      "url": "https://github.com/dream-num/univer"
+      "starsTotal": 13985,
+      "starsSince": 437,
+      "url": "https://github.com/oblien/openship"
+    },
+    {
+      "rank": 8,
+      "owner": "averygan",
+      "name": "reclip",
+      "fullName": "averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "starsTotal": 10311,
+      "starsSince": 113,
+      "url": "https://github.com/averygan/reclip"
+    },
+    {
+      "rank": 9,
+      "owner": "cs341-illinois",
+      "name": "coursebook",
+      "fullName": "cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "starsTotal": 3200,
+      "starsSince": 572,
+      "url": "https://github.com/cs341-illinois/coursebook"
+    },
+    {
+      "rank": 10,
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "starsTotal": 61677,
+      "starsSince": 786,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     }
   ],
-  "updatedAt": "2026-09-29T06:25:34.056Z"
+  "updatedAt": "2026-09-30T06:11:16.682Z"
 }
