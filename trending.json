@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "NVIDIA",
-      "name": "OpenShell",
-      "fullName": "NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "starsTotal": 13158,
-      "starsSince": 1281,
-      "url": "https://github.com/NVIDIA/OpenShell"
-    },
-    {
-      "rank": 2,
-      "owner": "debpalash",
-      "name": "VoiceStudio",
-      "fullName": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "language": "Python",
-      "starsTotal": 50748,
-      "starsSince": 3483,
-      "url": "https://github.com/debpalash/VoiceStudio"
-    },
-    {
-      "rank": 3,
-      "owner": "mvschwarz",
-      "name": "openrig",
-      "fullName": "mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "language": "TypeScript",
-      "starsTotal": 3186,
-      "starsSince": 624,
-      "url": "https://github.com/mvschwarz/openrig"
-    },
-    {
-      "rank": 4,
-      "owner": "mksglu",
-      "name": "context-mode",
-      "fullName": "mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "starsTotal": 24558,
-      "starsSince": 90,
-      "url": "https://github.com/mksglu/context-mode"
-    },
-    {
-      "rank": 5,
       "owner": "DietrichGebert",
       "name": "ponytail",
       "fullName": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "starsTotal": 149464,
-      "starsSince": 743,
+      "starsTotal": 150829,
+      "starsSince": 1194,
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
-      "rank": 6,
-      "owner": "harry0703",
-      "name": "MoneyPrinterTurbo",
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "starsTotal": 127683,
-      "starsSince": 431,
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
-    },
-    {
-      "rank": 7,
-      "owner": "openclaw",
-      "name": "openclaw",
-      "fullName": "openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "language": "TypeScript",
-      "starsTotal": 391058,
-      "starsSince": 136,
-      "url": "https://github.com/openclaw/openclaw"
-    },
-    {
-      "rank": 8,
-      "owner": "ComposioHQ",
-      "name": "awesome-claude-skills",
-      "fullName": "ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "starsTotal": 76213,
-      "starsSince": 123,
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
-    },
-    {
-      "rank": 9,
+      "rank": 2,
       "owner": "mattpocock",
       "name": "skills",
       "fullName": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "starsTotal": 273197,
-      "starsSince": 876,
+      "starsTotal": 274106,
+      "starsSince": 883,
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "rank": 10,
+      "rank": 3,
+      "owner": "NVIDIA",
+      "name": "OpenShell",
+      "fullName": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "starsTotal": 14124,
+      "starsSince": 2456,
+      "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "rank": 4,
+      "owner": "firebase",
+      "name": "firebase-ios-sdk",
+      "fullName": "firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "starsTotal": 6888,
+      "starsSince": 112,
+      "url": "https://github.com/firebase/firebase-ios-sdk"
+    },
+    {
+      "rank": 5,
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "fullName": "mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "starsTotal": 3855,
+      "starsSince": 642,
+      "url": "https://github.com/mvschwarz/openrig"
+    },
+    {
+      "rank": 6,
+      "owner": "cursor",
+      "name": "plugins",
+      "fullName": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "starsTotal": 9354,
+      "starsSince": 150,
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "rank": 7,
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "starsTotal": 294083,
+      "starsSince": 455,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 8,
+      "owner": "mksglu",
+      "name": "context-mode",
+      "fullName": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "starsTotal": 24846,
+      "starsSince": 362,
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "rank": 9,
       "owner": "heygen-com",
       "name": "hyperframes",
       "fullName": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "starsTotal": 54880,
-      "starsSince": 349,
+      "starsTotal": 55472,
+      "starsSince": 627,
       "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "rank": 10,
+      "owner": "earendil-works",
+      "name": "pi",
+      "fullName": "earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "starsTotal": 111390,
+      "starsSince": 298,
+      "url": "https://github.com/earendil-works/pi"
     }
   ],
-  "updatedAt": "2026-10-01T06:42:08.888Z"
+  "updatedAt": "2026-10-02T06:28:48.853Z"
 }
