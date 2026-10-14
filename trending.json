@@ -7,8 +7,8 @@
       "fullName": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "starsTotal": 174583,
-      "starsSince": 45327,
+      "starsTotal": 216071,
+      "starsSince": 54679,
       "url": "https://github.com/morluto/rea"
     },
     {
@@ -18,53 +18,53 @@
       "fullName": "bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "starsTotal": 54190,
-      "starsSince": 1895,
+      "starsTotal": 55745,
+      "starsSince": 1961,
       "url": "https://github.com/bilawalsidhu/gods-eye-view"
     },
     {
       "rank": 3,
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "fullName": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "starsTotal": 64001,
+      "starsSince": 1748,
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "rank": 4,
       "owner": "mksglu",
       "name": "context-mode",
       "fullName": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "starsTotal": 27566,
-      "starsSince": 246,
+      "starsTotal": 28434,
+      "starsSince": 969,
       "url": "https://github.com/mksglu/context-mode"
     },
     {
-      "rank": 4,
-      "owner": "storytold",
-      "name": "artcraft",
-      "fullName": "storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "starsTotal": 23142,
-      "starsSince": 4095,
-      "url": "https://github.com/storytold/artcraft"
-    },
-    {
       "rank": 5,
-      "owner": "open-webui",
-      "name": "open-webui",
-      "fullName": "open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "language": "Python",
-      "starsTotal": 155338,
-      "starsSince": 157,
-      "url": "https://github.com/open-webui/open-webui"
-    },
-    {
-      "rank": 6,
       "owner": "cathrynlavery",
       "name": "diagram-design",
       "fullName": "cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "starsTotal": 53084,
-      "starsSince": 2081,
+      "starsTotal": 54519,
+      "starsSince": 1815,
       "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "rank": 6,
+      "owner": "vercel-labs",
+      "name": "skills",
+      "fullName": "vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "starsTotal": 34677,
+      "starsSince": 190,
+      "url": "https://github.com/vercel-labs/skills"
     },
     {
       "rank": 7,
@@ -73,32 +73,32 @@
       "fullName": "lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "starsTotal": 37775,
-      "starsSince": 879,
+      "starsTotal": 38451,
+      "starsSince": 1001,
       "url": "https://github.com/lyogavin/airllm"
     },
     {
       "rank": 8,
-      "owner": "microsoft",
-      "name": "BitNet",
-      "fullName": "microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "C++",
-      "starsTotal": 41028,
-      "starsSince": 97,
-      "url": "https://github.com/microsoft/BitNet"
+      "owner": "storytold",
+      "name": "artcraft",
+      "fullName": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "starsTotal": 26276,
+      "starsSince": 4081,
+      "url": "https://github.com/storytold/artcraft"
     },
     {
       "rank": 9,
-      "owner": "Alishahryar1",
-      "name": "free-claude-code",
-      "fullName": "Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "starsTotal": 59524,
-      "starsSince": 626,
-      "url": "https://github.com/Alishahryar1/free-claude-code"
+      "owner": "xtool-org",
+      "name": "xtool",
+      "fullName": "xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "starsTotal": 9692,
+      "starsSince": 1198,
+      "url": "https://github.com/xtool-org/xtool"
     }
   ],
-  "updatedAt": "2026-10-13T07:14:13.527Z"
+  "updatedAt": "2026-10-14T05:38:32.823Z"
 }
