@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
+      "owner": "elayadesign",
+      "name": "ai-design-skills",
+      "fullName": "elayadesign/ai-design-skills",
+      "description": "",
+      "language": "",
+      "starsTotal": 9939,
+      "starsSince": 1395,
+      "url": "https://github.com/elayadesign/ai-design-skills"
+    },
+    {
+      "rank": 2,
       "owner": "Nutlope",
       "name": "hallmark",
       "fullName": "Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "starsTotal": 36982,
-      "starsSince": 2244,
+      "starsTotal": 39432,
+      "starsSince": 2830,
       "url": "https://github.com/Nutlope/hallmark"
     },
     {
-      "rank": 2,
-      "owner": "TauricResearch",
-      "name": "TradingAgents",
-      "fullName": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "starsTotal": 116468,
-      "starsSince": 1395,
-      "url": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
       "rank": 3,
-      "owner": "JetBrains",
-      "name": "thinkrail",
-      "fullName": "JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "starsTotal": 3174,
-      "starsSince": 1173,
-      "url": "https://github.com/JetBrains/thinkrail"
-    },
-    {
-      "rank": 4,
-      "owner": "makecindy",
-      "name": "cindy",
-      "fullName": "makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "starsTotal": 6783,
-      "starsSince": 1296,
-      "url": "https://github.com/makecindy/cindy"
-    },
-    {
-      "rank": 5,
-      "owner": "affaan-m",
-      "name": "ECC",
-      "fullName": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "starsTotal": 290039,
-      "starsSince": 896,
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "rank": 6,
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "fullName": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "starsTotal": 89468,
-      "starsSince": 1506,
-      "url": "https://github.com/pbakaus/impeccable"
-    },
-    {
-      "rank": 7,
-      "owner": "NVIDIA",
-      "name": "SkillSpector",
-      "fullName": "NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "language": "Python",
-      "starsTotal": 22404,
-      "starsSince": 214,
-      "url": "https://github.com/NVIDIA/SkillSpector"
-    },
-    {
-      "rank": 8,
-      "owner": "pollen-robotics",
-      "name": "microduck",
-      "fullName": "pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "language": "Rust",
-      "starsTotal": 12526,
-      "starsSince": 843,
-      "url": "https://github.com/pollen-robotics/microduck"
-    },
-    {
-      "rank": 9,
       "owner": "nightly-labs",
       "name": "openbot",
       "fullName": "nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "starsTotal": 1649,
-      "starsSince": 176,
+      "starsTotal": 2668,
+      "starsSince": 777,
       "url": "https://github.com/nightly-labs/openbot"
     },
     {
-      "rank": 10,
-      "owner": "Panniantong",
-      "name": "Agent-Reach",
-      "fullName": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "rank": 4,
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "starsTotal": 306682,
+      "starsSince": 617,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 5,
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "fullName": "pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "starsTotal": 90958,
+      "starsSince": 1449,
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "rank": 6,
+      "owner": "makecindy",
+      "name": "cindy",
+      "fullName": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "starsTotal": 7678,
+      "starsSince": 1465,
+      "url": "https://github.com/makecindy/cindy"
+    },
+    {
+      "rank": 7,
+      "owner": "gitroomhq",
+      "name": "postiz-app",
+      "fullName": "gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "starsTotal": 39619,
+      "starsSince": 951,
+      "url": "https://github.com/gitroomhq/postiz-app"
+    },
+    {
+      "rank": 8,
+      "owner": "affaan-m",
+      "name": "ECC",
+      "fullName": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "starsTotal": 291099,
+      "starsSince": 1165,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 9,
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "fullName": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
-      "starsTotal": 104008,
-      "starsSince": 746,
-      "url": "https://github.com/Panniantong/Agent-Reach"
+      "starsTotal": 46530,
+      "starsSince": 1598,
+      "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+      "rank": 10,
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "fullName": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "starsTotal": 4318,
+      "starsSince": 1204,
+      "url": "https://github.com/JetBrains/thinkrail"
     }
   ],
-  "updatedAt": "2026-10-27T05:49:13.069Z"
+  "updatedAt": "2026-10-28T06:27:42.786Z"
 }
