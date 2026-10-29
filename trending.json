@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "elayadesign",
-      "name": "ai-design-skills",
-      "fullName": "elayadesign/ai-design-skills",
-      "description": "",
-      "language": "",
-      "starsTotal": 9939,
-      "starsSince": 1395,
-      "url": "https://github.com/elayadesign/ai-design-skills"
-    },
-    {
-      "rank": 2,
-      "owner": "Nutlope",
-      "name": "hallmark",
-      "fullName": "Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "starsTotal": 39432,
-      "starsSince": 2830,
-      "url": "https://github.com/Nutlope/hallmark"
-    },
-    {
-      "rank": 3,
-      "owner": "nightly-labs",
-      "name": "openbot",
-      "fullName": "nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "language": "TypeScript",
-      "starsTotal": 2668,
-      "starsSince": 777,
-      "url": "https://github.com/nightly-labs/openbot"
-    },
-    {
-      "rank": 4,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 306682,
-      "starsSince": 617,
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "rank": 5,
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "fullName": "pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "language": "Rust",
-      "starsTotal": 90958,
-      "starsSince": 1449,
-      "url": "https://github.com/pbakaus/impeccable"
-    },
-    {
-      "rank": 6,
-      "owner": "makecindy",
-      "name": "cindy",
-      "fullName": "makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "starsTotal": 7678,
-      "starsSince": 1465,
-      "url": "https://github.com/makecindy/cindy"
-    },
-    {
-      "rank": 7,
-      "owner": "gitroomhq",
-      "name": "postiz-app",
-      "fullName": "gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "language": "TypeScript",
-      "starsTotal": 39619,
-      "starsSince": 951,
-      "url": "https://github.com/gitroomhq/postiz-app"
-    },
-    {
-      "rank": 8,
-      "owner": "affaan-m",
-      "name": "ECC",
-      "fullName": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "starsTotal": 291099,
-      "starsSince": 1165,
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "rank": 9,
-      "owner": "HKUDS",
-      "name": "DeepTutor",
-      "fullName": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "starsTotal": 46530,
-      "starsSince": 1598,
-      "url": "https://github.com/HKUDS/DeepTutor"
-    },
-    {
-      "rank": 10,
       "owner": "JetBrains",
       "name": "thinkrail",
       "fullName": "JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "starsTotal": 4318,
-      "starsSince": 1204,
+      "starsTotal": 5376,
+      "starsSince": 1068,
       "url": "https://github.com/JetBrains/thinkrail"
+    },
+    {
+      "rank": 2,
+      "owner": "elayadesign",
+      "name": "ai-design-skills",
+      "fullName": "elayadesign/ai-design-skills",
+      "description": "",
+      "language": "",
+      "starsTotal": 11429,
+      "starsSince": 2139,
+      "url": "https://github.com/elayadesign/ai-design-skills"
+    },
+    {
+      "rank": 3,
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "starsTotal": 307666,
+      "starsSince": 1095,
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 4,
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "fullName": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "starsTotal": 48551,
+      "starsSince": 2371,
+      "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+      "rank": 5,
+      "owner": "macro-inc",
+      "name": "macro",
+      "fullName": "macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "starsTotal": 5548,
+      "starsSince": 117,
+      "url": "https://github.com/macro-inc/macro"
+    },
+    {
+      "rank": 6,
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "fullName": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "starsTotal": 41058,
+      "starsSince": 2110,
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "rank": 7,
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "fullName": "pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "starsTotal": 93427,
+      "starsSince": 1472,
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "rank": 8,
+      "owner": "makecindy",
+      "name": "cindy",
+      "fullName": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "starsTotal": 8302,
+      "starsSince": 728,
+      "url": "https://github.com/makecindy/cindy"
+    },
+    {
+      "rank": 9,
+      "owner": "nightly-labs",
+      "name": "openbot",
+      "fullName": "nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "starsTotal": 3440,
+      "starsSince": 1054,
+      "url": "https://github.com/nightly-labs/openbot"
+    },
+    {
+      "rank": 10,
+      "owner": "togg53192-cmd",
+      "name": "jailbreaks",
+      "fullName": "togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "starsTotal": 7522,
+      "starsSince": 1477,
+      "url": "https://github.com/togg53192-cmd/jailbreaks"
     }
   ],
-  "updatedAt": "2026-10-28T06:27:42.786Z"
+  "updatedAt": "2026-10-29T06:38:53.252Z"
 }
