@@ -2,25 +2,25 @@
   "data": [
     {
       "rank": 1,
-      "owner": "HKUDS",
-      "name": "DeepTutor",
-      "fullName": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "starsTotal": 50737,
-      "starsSince": 1930,
-      "url": "https://github.com/HKUDS/DeepTutor"
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "fullName": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "starsTotal": 106649,
+      "starsSince": 1140,
+      "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "rank": 2,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "starsTotal": 308833,
-      "starsSince": 1034,
-      "url": "https://github.com/obra/superpowers"
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "fullName": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "starsTotal": 8924,
+      "starsSince": 895,
+      "url": "https://github.com/milind-soni/OpenMausBot"
     },
     {
       "rank": 3,
@@ -29,87 +29,87 @@
       "fullName": "pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "starsTotal": 95871,
-      "starsSince": 2870,
+      "starsTotal": 97358,
+      "starsSince": 2300,
       "url": "https://github.com/pbakaus/impeccable"
     },
     {
       "rank": 4,
-      "owner": "JetBrains",
-      "name": "thinkrail",
-      "fullName": "JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "starsTotal": 6183,
-      "starsSince": 1117,
-      "url": "https://github.com/JetBrains/thinkrail"
-    },
-    {
-      "rank": 5,
-      "owner": "milind-soni",
-      "name": "OpenMausBot",
-      "fullName": "milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "language": "TypeScript",
-      "starsTotal": 7682,
-      "starsSince": 1199,
-      "url": "https://github.com/milind-soni/OpenMausBot"
-    },
-    {
-      "rank": 6,
-      "owner": "nightly-labs",
-      "name": "openbot",
-      "fullName": "nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "language": "TypeScript",
-      "starsTotal": 4020,
-      "starsSince": 709,
-      "url": "https://github.com/nightly-labs/openbot"
-    },
-    {
-      "rank": 7,
-      "owner": "elayadesign",
-      "name": "ai-design-skills",
-      "fullName": "elayadesign/ai-design-skills",
-      "description": "",
-      "language": "",
-      "starsTotal": 12466,
-      "starsSince": 1187,
-      "url": "https://github.com/elayadesign/ai-design-skills"
-    },
-    {
-      "rank": 8,
-      "owner": "thedotmack",
-      "name": "claude-mem",
-      "fullName": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "language": "TypeScript",
-      "starsTotal": 105051,
-      "starsSince": 336,
-      "url": "https://github.com/thedotmack/claude-mem"
-    },
-    {
-      "rank": 9,
       "owner": "CopilotKit",
       "name": "OpenBot",
       "fullName": "CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "starsTotal": 8314,
-      "starsSince": 247,
+      "starsTotal": 8915,
+      "starsSince": 706,
       "url": "https://github.com/CopilotKit/OpenBot"
     },
     {
+      "rank": 5,
+      "owner": "Renhuai123",
+      "name": "ziwei-doushu",
+      "fullName": "Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "starsTotal": 11535,
+      "starsSince": 1126,
+      "url": "https://github.com/Renhuai123/ziwei-doushu"
+    },
+    {
+      "rank": 6,
+      "owner": "expo",
+      "name": "skills",
+      "fullName": "expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "starsTotal": 3931,
+      "starsSince": 38,
+      "url": "https://github.com/expo/skills"
+    },
+    {
+      "rank": 7,
+      "owner": "macro-inc",
+      "name": "macro",
+      "fullName": "macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "starsTotal": 5937,
+      "starsSince": 57,
+      "url": "https://github.com/macro-inc/macro"
+    },
+    {
+      "rank": 8,
+      "owner": "mattpocock",
+      "name": "skills",
+      "fullName": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsTotal": 307658,
+      "starsSince": 876,
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 9,
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "fullName": "pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "starsTotal": 33033,
+      "starsSince": 930,
+      "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
       "rank": 10,
-      "owner": "togg53192-cmd",
-      "name": "jailbreaks",
-      "fullName": "togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "language": "",
-      "starsTotal": 9534,
-      "starsSince": 1594,
-      "url": "https://github.com/togg53192-cmd/jailbreaks"
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "fullName": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "starsTotal": 51986,
+      "starsSince": 2282,
+      "url": "https://github.com/HKUDS/DeepTutor"
     }
   ],
-  "updatedAt": "2026-10-30T06:39:06.753Z"
+  "updatedAt": "2026-10-31T06:29:15.222Z"
 }
