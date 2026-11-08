@@ -2,114 +2,114 @@
   "data": [
     {
       "rank": 1,
-      "owner": "zed-industries",
-      "name": "zed",
-      "fullName": "zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "fullName": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "starsTotal": 93832,
-      "starsSince": 306,
-      "url": "https://github.com/zed-industries/zed"
+      "starsTotal": 47023,
+      "starsSince": 190,
+      "url": "https://github.com/vercel-labs/agent-browser"
     },
     {
       "rank": 2,
-      "owner": "NVIDIA",
-      "name": "auto-ontology",
-      "fullName": "NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "language": "Python",
-      "starsTotal": 9332,
-      "starsSince": 2015,
-      "url": "https://github.com/NVIDIA/auto-ontology"
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "fullName": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "starsTotal": 66051,
+      "starsSince": 2085,
+      "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
       "rank": 3,
-      "owner": "rails",
-      "name": "rails",
-      "fullName": "rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "starsTotal": 59058,
-      "starsSince": 142,
-      "url": "https://github.com/rails/rails"
-    },
-    {
-      "rank": 4,
-      "owner": "mpv-player",
-      "name": "mpv",
-      "fullName": "mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "language": "C",
-      "starsTotal": 37934,
-      "starsSince": 37,
-      "url": "https://github.com/mpv-player/mpv"
-    },
-    {
-      "rank": 5,
-      "owner": "rust-lang",
-      "name": "rust",
-      "fullName": "rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "starsTotal": 121521,
-      "starsSince": 192,
-      "url": "https://github.com/rust-lang/rust"
-    },
-    {
-      "rank": 6,
-      "owner": "react",
-      "name": "react",
-      "fullName": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "language": "JavaScript",
-      "starsTotal": 252307,
-      "starsSince": 248,
-      "url": "https://github.com/react/react"
-    },
-    {
-      "rank": 7,
-      "owner": "angular",
-      "name": "angular",
-      "fullName": "angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "language": "TypeScript",
-      "starsTotal": 101422,
-      "starsSince": 135,
-      "url": "https://github.com/angular/angular"
-    },
-    {
-      "rank": 8,
-      "owner": "symfony",
-      "name": "symfony",
-      "fullName": "symfony/symfony",
-      "description": "The Symfony PHP framework",
-      "language": "PHP",
-      "starsTotal": 31478,
-      "starsSince": 128,
-      "url": "https://github.com/symfony/symfony"
-    },
-    {
-      "rank": 9,
-      "owner": "prometheus",
-      "name": "prometheus",
-      "fullName": "prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "starsTotal": 67241,
-      "starsSince": 148,
-      "url": "https://github.com/prometheus/prometheus"
-    },
-    {
-      "rank": 10,
       "owner": "google",
       "name": "skills",
       "fullName": "google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "starsTotal": 22952,
-      "starsSince": 534,
+      "starsTotal": 23531,
+      "starsSince": 443,
       "url": "https://github.com/google/skills"
+    },
+    {
+      "rank": 4,
+      "owner": "mattpocock",
+      "name": "skills",
+      "fullName": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsTotal": 317943,
+      "starsSince": 1100,
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 5,
+      "owner": "anthropics",
+      "name": "skills",
+      "fullName": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "starsTotal": 188942,
+      "starsSince": 390,
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "rank": 6,
+      "owner": "meta",
+      "name": "astryx",
+      "fullName": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "starsTotal": 14769,
+      "starsSince": 96,
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "rank": 7,
+      "owner": "prometheus",
+      "name": "prometheus",
+      "fullName": "prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "starsTotal": 67491,
+      "starsSince": 322,
+      "url": "https://github.com/prometheus/prometheus"
+    },
+    {
+      "rank": 8,
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "fullName": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "starsTotal": 101107,
+      "starsSince": 1766,
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "rank": 9,
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "fullName": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "starsTotal": 17318,
+      "starsSince": 1955,
+      "url": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+      "rank": 10,
+      "owner": "astral-sh",
+      "name": "ruff",
+      "fullName": "astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "starsTotal": 51031,
+      "starsSince": 350,
+      "url": "https://github.com/astral-sh/ruff"
     }
   ],
-  "updatedAt": "2026-11-07T06:43:27.785Z"
+  "updatedAt": "2026-11-08T06:49:56.126Z"
 }
