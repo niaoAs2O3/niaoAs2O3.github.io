@@ -1,4 +1,115 @@
 {
-  "data": [],
-  "updatedAt": "2026-11-09T07:29:03.904Z"
+  "data": [
+    {
+      "rank": 1,
+      "owner": "anthropics",
+      "name": "skills",
+      "fullName": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "starsTotal": 191473,
+      "starsSince": 1038,
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "rank": 2,
+      "owner": "meta",
+      "name": "astryx",
+      "fullName": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "starsTotal": 20959,
+      "starsSince": 3278,
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "rank": 3,
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "fullName": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "starsTotal": 107835,
+      "starsSince": 4267,
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "rank": 4,
+      "owner": "google-deepmind",
+      "name": "mujoco",
+      "fullName": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "starsTotal": 17077,
+      "starsSince": 574,
+      "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+      "rank": 5,
+      "owner": "anthropics",
+      "name": "claude-quickstarts",
+      "fullName": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "starsTotal": 20175,
+      "starsSince": 551,
+      "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+      "rank": 6,
+      "owner": "garrytan",
+      "name": "gbrain",
+      "fullName": "garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "language": "TypeScript",
+      "starsTotal": 32327,
+      "starsSince": 216,
+      "url": "https://github.com/garrytan/gbrain"
+    },
+    {
+      "rank": 7,
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "fullName": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "starsTotal": 48742,
+      "starsSince": 916,
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "rank": 8,
+      "owner": "ruvnet",
+      "name": "RuView",
+      "fullName": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "starsTotal": 103696,
+      "starsSince": 172,
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "rank": 9,
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "starsTotal": 69285,
+      "starsSince": 506,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+      "rank": 10,
+      "owner": "homeassistant-ai",
+      "name": "ha-mcp",
+      "fullName": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "starsTotal": 6204,
+      "starsSince": 31,
+      "url": "https://github.com/homeassistant-ai/ha-mcp"
+    }
+  ],
+  "updatedAt": "2026-11-10T07:54:29.474Z"
 }
